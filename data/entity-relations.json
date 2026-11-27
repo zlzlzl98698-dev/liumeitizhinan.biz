@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-11-27",
+  "entityTypes": ["StreamingService", "AIService", "Brand", "Client", "OS", "Protocol", "NetworkLine", "IPType", "Region", "Plan", "Symptom", "TestRecord"],
+  "relations": [
+    { "from": "Netflix", "relation": "dependsOn", "to": ["原生 IP", "IP 归属地", "DNS", "下载速度"], "guideUrl": "/ai/netflix-guide/" },
+    { "from": "Netflix", "relation": "troubleshootWith", "to": ["/troubleshooting/netflix-playback-error/", "/troubleshooting/netflix-network-error/"] },
+    { "from": "YouTube", "relation": "dependsOn", "to": ["CDN 调度", "IP 归属地", "DNS", "IPv6"], "guideUrl": "/ai/youtube-guide/" },
+    { "from": "ChatGPT", "relation": "dependsOn", "to": ["原生 IP", "数据中心 IP", "HTTPS 连接", "IPv6", "TUN 模式"], "guideUrl": "/ai/chatgpt-guide/" },
+    { "from": "Claude", "relation": "dependsOn", "to": ["原生 IP", "固定节点分流", "IP 归属地"], "guideUrl": "/ai/claude-guide/" },
+    { "from": "Gemini", "relation": "dependsOn", "to": ["IP 归属地", "DNS", "Google 账号地区"], "guideUrl": "/ai/gemini-guide/" },
+    { "from": "光速云", "relation": "usesLine", "to": ["IEPL 专线", "IPLC 专线", "VLESS"], "guideUrl": "/brands/guangsu/" },
+    { "from": "光速云", "relation": "supportsClients", "to": ["自研客户端", "Clash Verge Rev", "Shadowrocket"], "guideUrl": "/brands/guangsu/" }
+  ]
+}

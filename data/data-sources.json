@@ -1,0 +1,70 @@
+{
+  "updatedAt": "2026-11-27",
+  "auditPolicy": {
+    "statusDefinitions": {
+      "verified": "已多方交叉核实并有原始依据的公开或实测资料",
+      "measured": "本站保留原始测试截图或实测记录（仅代表对应测试时间与环境，不代表长期表现）",
+      "vendor": "品牌方官方宣传或产品说明资料，未经本站独立长期实测验证",
+      "supplied": "原始整理资料包中提供的历史整理数据，来源与测试口径待进一步复核",
+      "historical": "2026-08-09 或更早期的历史品牌库记录，当前有效性需下单前核实",
+      "unverified": "资料中未明确说明或尚缺独立核实证据",
+      "conflict": "不同来源或同一文档不同段落存在数值或规则冲突，已纳入冲突审计报告",
+      "not_tested": "尚未在受控环境下开展独立测试"
+    }
+  },
+  "sources": [
+    {
+      "id": "src-guangsu-brand",
+      "file": "主推光速云品牌信息.txt",
+      "category": "A/B/F",
+      "description": "主推品牌光速云详细套餐、优惠码、协议、线路与注册链接说明（注：轻量版流量与推广机场品牌清单存在 59GB vs 69GB 冲突）"
+    },
+    {
+      "id": "src-brand-list",
+      "file": "推广机场品牌清单.txt",
+      "category": "B/C/F/G",
+      "description": "包含 32 个机场品牌基础资料、套餐价格表、优惠码、推广链接及 2026-10-19 原文标注（非晚高峰）参考测速与解锁资料"
+    },
+    {
+      "id": "src-speedtest-2026-08-11",
+      "file": "机场测速实测资料包_2026-08-11_发布整理版_V2.zip",
+      "category": "C/D",
+      "description": "2026-08-11 CST 批次 16+1（含微风）张 1122x1402 PNG 节点测速原始截图及 speedtest-manifest.json、README 说明"
+    },
+    {
+      "id": "src-guangsu-unlock-2026-08-19",
+      "file": "光速云测试图解锁图/*.jpg",
+      "category": "C/D",
+      "description": "2026-08-19 5 张 MiaoKo 实测图，覆盖长沙电信/广西移动/河北联通普通测速及珠海联通 9Gbps Vless+AnyTLS 流媒体/AI 与订阅速度测试"
+    },
+    {
+      "id": "src-third-party-clients",
+      "file": "第三方代理客户端.txt",
+      "category": "A/H",
+      "description": "按 Windows、Android、iOS、macOS、Linux、OpenWrt 6 大平台整理的第三方代理客户端完整清单与维护提示"
+    },
+    {
+      "id": "src-chart-style",
+      "file": "机场品牌图表样式.txt",
+      "category": "Design Spec",
+      "description": "Dark Network Observatory + Infrastructure Dashboard + SaaS Monitoring Console 图表样式规范（注意：示例数值不可作为真实测速发布）"
+    },
+    {
+      "id": "src-content-matrix",
+      "file": "内容矩阵.txt",
+      "category": "Architecture Spec",
+      "description": "品牌数据库、SEO/GEO 规范、内链矩阵与验收准则"
+    },
+    {
+      "id": "src-logos",
+      "file": "logos/* (30 files)",
+      "category": "Media Assets",
+      "description": "30 个品牌 Logo/主图素材（部分 Logo 如 bee/echo/fclogo/flyingbird/galaxy/kuku/qyt/TNT/totoro/flyv/yinyun 暂无对应文本档案，已做归档记录）"
+    }
+  ],
+  "missingOrPending": [
+    "外部关键词优先级导出文件（已基于现有品牌、客户端、流媒体与 AI 主题建立初始版本，待导入 GSC / Bing Webmaster CSV 补充真实搜索量）",
+    "外部 GEO 长尾问题库原始文件（已建立初始问题库并标记 source: curated-initial，待客服与搜索数据补充）",
+    "其余品牌独立 2026-08-19 级多运营商流媒体/AI 实测截图（当前仅光速云拥有 5 张 2026-08-19 MiaoKo 实测图，灵动云有 2026-07-20/21 文字实测摘要，其余 17 家拥有 2026-08-11 测速截图）"
+  ]
+}

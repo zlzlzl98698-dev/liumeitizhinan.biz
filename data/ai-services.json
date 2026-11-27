@@ -1,0 +1,39 @@
+{
+  "updatedAt": "2026-11-27",
+  "services": [
+    {
+      "slug": "chatgpt",
+      "name": "ChatGPT (OpenAI)",
+      "summary": "OpenAI 对话与推理平台，对不支持地区的 IP、高风险共享机房 IP 以及 IPv6 泄漏均有严格拦截，且区分网页端与 App 端风控强度。",
+      "commonErrors": [
+        "Something went wrong / Unable to load history",
+        "Access denied / Cloudflare 1020 或风控拦截",
+        "网页端不可用但手机 App 可用（常见于香港节点仅 App 解锁场景）",
+        "登录验证循环或无法加载对话流"
+      ],
+      "troubleshootingFocus": ["确认出口 IP 不在香港或受限区", "关闭或正确配置 IPv6 分流避免双栈回源", "开启客户端 TUN 模式接管桌面端", "排查浏览器缓存与 WebRTC/DNS 泄漏"]
+    },
+    {
+      "slug": "claude",
+      "name": "Claude (Anthropic)",
+      "summary": "Anthropic AI 助手，以极高风控敏感度著称，除地区限制外，频繁更换出口 IP 或共享高风险 ASN 易触发账号封控或登录失败。",
+      "commonErrors": [
+        "App unavailable in your region",
+        "账号刚注册即被风控停用",
+        "页面提示网络错误或频繁触发人机验证"
+      ],
+      "troubleshootingFocus": ["固定使用单一支持区高质量节点（如美、日、新、英）", "避免自动测速切换导致短时间跨国跳 IP", "区分账号风控与纯网络连接错误"]
+    },
+    {
+      "slug": "gemini",
+      "name": "Gemini (Google)",
+      "summary": "Google AI 服务，受 Google 账号地区属性、出口 IP 地区识别以及“送中 IP”影响极大，常见报错为 Something went wrong。",
+      "commonErrors": [
+        "Something went wrong",
+        "Gemini is not available in your country",
+        "Google 账号年龄或地区属性限制"
+      ],
+      "troubleshootingFocus": ["检查当前节点是否被 Google 识别为不支持地区（如香港或送中 IP）", "核对 Google 账号关联地区设置", "避免同时走多个分流出口导致 API 请求与认证请求 IP 不一致"]
+    }
+  ]
+}

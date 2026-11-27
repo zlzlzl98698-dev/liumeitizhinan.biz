@@ -1,0 +1,459 @@
+:root {
+  --sg-navy: #0b1d39;
+  --sg-navy-deep: #071327;
+  --sg-slate: #162844;
+  --sg-blue: #2563eb;
+  --sg-cyan: #0891b2;
+  --sg-cyan-bright: #06b6d4;
+  --sg-bg: #f8fafc;
+  --sg-surface: #ffffff;
+  --sg-border: #e2e8f0;
+  --sg-text: #0f172a;
+  --sg-muted: #475569;
+
+  --vp-c-brand-1: #0284c7;
+  --vp-c-brand-2: #0369a1;
+  --vp-c-brand-3: #0b1d39;
+  --vp-c-brand-soft: rgba(2, 132, 199, 0.12);
+  --vp-font-family-base: "Inter", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", -apple-system, BlinkMacSystemFont, sans-serif;
+  --vp-font-family-mono: "JetBrains Mono", "Fira Code", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+.dark {
+  --sg-bg: #071327;
+  --sg-surface: #0f1e36;
+  --sg-border: #1e3252;
+  --sg-text: #f1f5f9;
+  --sg-muted: #94a3b8;
+}
+
+body {
+  background-color: var(--sg-bg);
+  color: var(--sg-text);
+}
+
+.VPNavBarTitle .logo {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 28px;
+  height: 28px;
+  border: 1.5px solid rgba(56, 189, 248, 0.55);
+}
+
+/* Hover support for desktop nav dropdowns */
+@media (min-width: 768px) {
+  .VPNavBarMenuGroup:hover .VPMenu,
+  .VPNavBarMenuGroup:focus-within .VPMenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
+
+/* Custom Site DNA Cards & Observatory Charts */
+.sg-card {
+  background: var(--sg-surface);
+  border: 1px solid var(--sg-border);
+  border-radius: 12px;
+  padding: 20px;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+
+.sg-card:hover {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 8px 24px rgba(11, 29, 57, 0.08);
+}
+
+.sg-observatory {
+  background: linear-gradient(180deg, #0b172b 0%, #071121 100%);
+  border: 1px solid rgba(56, 189, 248, 0.22);
+  border-radius: 14px;
+  color: #e2e8f0;
+  padding: 22px;
+  position: relative;
+  overflow: hidden;
+  font-variant-numeric: tabular-nums;
+}
+
+.sg-observatory::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(to right, rgba(148, 163, 184, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(148, 163, 184, 0.05) 1px, transparent 1px);
+  background-size: 28px 28px;
+  pointer-events: none;
+}
+
+.sg-observatory > * {
+  position: relative;
+  z-index: 1;
+}
+
+.sg-mono {
+  font-family: var(--vp-font-family-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.sg-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.sg-badge-measured { background: rgba(16, 185, 129, 0.16); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.35); }
+.sg-badge-vendor { background: rgba(56, 189, 248, 0.14); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.35); }
+.sg-badge-partial { background: rgba(245, 158, 11, 0.16); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.35); }
+.sg-badge-conflict { background: rgba(239, 68, 68, 0.16); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.35); }
+.sg-badge-untested { background: rgba(148, 163, 184, 0.14); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.3); }
+
+.sg-light-badge-measured { background: #ecfdf5; color: #047857; border: 1px solid #a7f3d0; }
+.sg-light-badge-vendor { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
+.sg-light-badge-partial { background: #fffbeb; color: #b45309; border: 1px solid #fde68a; }
+.sg-light-badge-conflict { background: #fef2f2; color: #b91c1c; border: 1px solid #fecaca; }
+.sg-light-badge-untested { background: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; }
+
+.sg-breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--sg-muted);
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--sg-border);
+}
+
+.sg-breadcrumb a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.sg-breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.sg-meta-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+  font-size: 12.5px;
+  color: var(--sg-muted);
+  background: rgba(2, 132, 199, 0.05);
+  border: 1px solid var(--sg-border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-bottom: 20px;
+}
+
+.sg-disclosure-box {
+  font-size: 12.5px;
+  color: var(--sg-muted);
+  background: rgba(245, 158, 11, 0.07);
+  border-left: 3px solid #f59e0b;
+  padding: 10px 14px;
+  border-radius: 0 8px 8px 0;
+  margin: 14px 0;
+}
+
+.sg-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 18px;
+  border-radius: 8px;
+  background: #0284c7;
+  color: #ffffff !important;
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none !important;
+  transition: background 0.15s;
+}
+
+.sg-cta-btn:hover {
+  background: #0369a1;
+}
+
+.sg-footer-wrap {
+  border-top: 1px solid var(--sg-border);
+  background: var(--sg-navy-deep);
+  color: #cbd5e1;
+  padding: 44px 24px 28px;
+  margin-top: 48px;
+}
+
+.sg-footer-inner {
+  max-width: 1240px;
+  margin: 0 auto;
+}
+
+.sg-footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 28px;
+  margin-bottom: 28px;
+}
+
+.sg-footer-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.sg-footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  font-size: 13px;
+}
+
+.sg-footer-links a {
+  color: #94a3b8;
+  text-decoration: none;
+}
+
+.sg-footer-links a:hover {
+  color: #38bdf8;
+}
+
+/* Color scheme & form control dark-mode contrast */
+:root {
+  color-scheme: light;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+.vp-doc input,
+.vp-doc select,
+.vp-doc textarea {
+  color: var(--sg-text);
+}
+
+/* Documentation typography & reading rhythm */
+.vp-doc h1 {
+  letter-spacing: -0.015em;
+  line-height: 1.28;
+}
+
+.vp-doc h2 {
+  margin-top: 2.25rem;
+  line-height: 1.35;
+}
+
+.vp-doc h3 {
+  margin-top: 1.6rem;
+  line-height: 1.4;
+}
+
+.vp-doc p,
+.vp-doc li {
+  line-height: 1.78;
+}
+
+.vp-doc h1 + p {
+  padding: 15px 18px;
+  border-radius: 12px;
+  border: 1px solid var(--sg-border);
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: rgba(2, 132, 199, 0.045);
+  margin: 16px 0 20px;
+}
+
+.dark .vp-doc h1 + p {
+  background: rgba(56, 189, 248, 0.07);
+}
+
+.vp-doc blockquote {
+  border-left: 3.5px solid var(--vp-c-brand-1);
+  background: rgba(2, 132, 199, 0.04);
+  padding: 12px 16px;
+  border-radius: 0 10px 10px 0;
+  color: var(--sg-text);
+}
+
+.dark .vp-doc blockquote {
+  background: rgba(56, 189, 248, 0.06);
+}
+
+.vp-doc blockquote > p {
+  margin: 0;
+  line-height: 1.7;
+}
+
+/* Comparison tables: crisp alignment, zebra rows, responsive horizontal scroll */
+.vp-doc table {
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+  font-size: 14px;
+  border-radius: 10px;
+}
+
+.vp-doc table th {
+  background: rgba(2, 132, 199, 0.06);
+  font-weight: 700;
+  white-space: nowrap;
+  padding: 10px 13px;
+  border-color: var(--sg-border);
+}
+
+.dark .vp-doc table th {
+  background: rgba(56, 189, 248, 0.09);
+}
+
+.vp-doc table td {
+  padding: 9px 13px;
+  border-color: var(--sg-border);
+  line-height: 1.62;
+  vertical-align: top;
+}
+
+.vp-doc table tbody tr:nth-child(even) {
+  background: rgba(15, 23, 42, 0.018);
+}
+
+.dark .vp-doc table tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.vp-doc table tbody tr:hover {
+  background: rgba(2, 132, 199, 0.045);
+}
+
+.dark .vp-doc table tbody tr:hover {
+  background: rgba(56, 189, 248, 0.06);
+}
+
+/* Formula display box */
+.sg-formula-box {
+  margin: 14px 0 18px;
+  padding: 14px 18px;
+  border-radius: 12px;
+  border: 1px solid var(--sg-border);
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: var(--sg-surface);
+  overflow-x: auto;
+}
+
+.sg-formula-label {
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--vp-c-brand-1);
+  margin-bottom: 6px;
+}
+
+.sg-formula-box code {
+  display: block;
+  font-size: 14.5px;
+  font-weight: 600;
+  line-height: 1.65;
+  color: var(--sg-text);
+  background: transparent !important;
+  padding: 0 !important;
+  white-space: pre-wrap;
+}
+
+/* FAQ visual hierarchy */
+.sg-faq-q {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  font-weight: 700;
+  font-size: 15px;
+  margin-bottom: 6px;
+  color: var(--sg-text);
+}
+
+.sg-faq-pill {
+  flex-shrink: 0;
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 800;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(2, 132, 199, 0.12);
+  color: var(--vp-c-brand-1);
+}
+
+.sg-faq-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.sg-faq-chevron {
+  flex-shrink: 0;
+  font-size: 12px;
+  color: var(--sg-muted);
+  transition: transform 0.2s ease;
+}
+
+.sg-faq-details:not([open]) .sg-faq-chevron {
+  transform: rotate(-90deg);
+}
+
+/* Zoomable evidence & doc images */
+.vp-doc figure img,
+.vp-doc p > img {
+  cursor: zoom-in;
+}
+
+/* Tablet & split-screen (768px–1240px): use hamburger drawer so 10 nav items never clip */
+@media (min-width: 768px) and (max-width: 1240px) {
+  .VPNavBarMenu,
+  .VPNavBarAppearance,
+  .VPNavBarExtra {
+    display: none !important;
+  }
+  .VPNavBarHamburger {
+    display: flex !important;
+  }
+  .VPNav:has(#VPNavScreen) {
+    z-index: 60 !important;
+  }
+  #VPNavScreen {
+    display: block !important;
+    background-color: var(--sg-bg) !important;
+    z-index: 60 !important;
+  }
+}
+
+/* Keep 10 top-level nav items, search & theme toggle fitting cleanly on 1241px–1520px laptops */
+@media (min-width: 1241px) and (max-width: 1520px) {
+  .VPNavBarMenuLink,
+  .VPNavBarMenuGroup .button {
+    padding-left: 4.5px !important;
+    padding-right: 4.5px !important;
+    font-size: 12.5px !important;
+  }
+  .VPNavBarMenuGroup .button .text-icon {
+    margin-left: 2px !important;
+    width: 12px !important;
+  }
+  .VPNavBar .VPNavBarSearch {
+    padding-left: 8px !important;
+    flex-grow: 0 !important;
+  }
+  .VPNavBar .DocSearch-Button-Keys {
+    display: none !important;
+  }
+  .VPNavBar .DocSearch-Button {
+    padding: 0 10px !important;
+  }
+  .VPNavBar .VPNavBarAppearance {
+    margin-left: 6px !important;
+  }
+  .VPNavBar .VPNavBarAppearance::before {
+    margin-right: 8px !important;
+  }
+}

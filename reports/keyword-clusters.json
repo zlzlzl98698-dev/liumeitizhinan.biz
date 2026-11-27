@@ -1,0 +1,25 @@
+{
+  "updatedAt": "2026-11-27",
+  "clusters": {
+    "netflix": 4,
+    "youtube": 3,
+    "disney-plus": 2,
+    "streaming-other": 1,
+    "ai-chatgpt": 1,
+    "ai-claude": 1,
+    "ai-gemini": 1,
+    "ai-network": 1,
+    "network": 1,
+    "troubleshooting": 1,
+    "recommend": 1,
+    "pricing": 1,
+    "brands": 33,
+    "clients": 24
+  },
+  "intentBuckets": {
+    "informational-troubleshooting": 9,
+    "informational": 31,
+    "commercial-investigation": 35
+  },
+  "cannibalizationConflicts": []
+}

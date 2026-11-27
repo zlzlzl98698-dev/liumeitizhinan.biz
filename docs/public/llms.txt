@@ -1,0 +1,42 @@
+# 流媒体指南 (liumeitizhinan.biz) - llms.txt
+
+> 流媒体使用指南，从网络连接到服务选择。专注于 Netflix、YouTube、Disney+、ChatGPT、Claude、Gemini 使用教程、播放异常排查、客户端软件选型与可溯源 33 家品牌数据库。完整 180 页索引详见 [llms-full.txt](https://liumeitizhinan.biz/llms-full.txt)。
+
+## 核心一级专题（10 大板块）
+- [首页与全站检索](https://liumeitizhinan.biz/)
+- [2026 机场推荐专题](https://liumeitizhinan.biz/recommend/)
+- [价格与套餐深度对比](https://liumeitizhinan.biz/pricing/)
+- [33 家机场品牌数据库](https://liumeitizhinan.biz/brands/)
+- [VPN 与加速器选购对比](https://liumeitizhinan.biz/vpn/)
+- [24 款代理客户端软件大全](https://liumeitizhinan.biz/clients/)
+- [AI 与流媒体专题（13 平台）](https://liumeitizhinan.biz/ai/)
+- [网络线路与 IP 百科](https://liumeitizhinan.biz/network/)
+- [客户端配置与分流教程](https://liumeitizhinan.biz/guides/)
+- [流媒体与 AI 故障排查中心](https://liumeitizhinan.biz/troubleshooting/)
+
+## 重点独立评测与横向对比
+- [12 家机场独立深度评测总览](https://liumeitizhinan.biz/reviews/)
+- [光速云万字深度评测（含 2026-08-19 5 张三网实测图）](https://liumeitizhinan.biz/reviews/guangsu/)
+- [星岛梦深度评测](https://liumeitizhinan.biz/reviews/xingdaomeng/)
+- [飞猫云深度评测](https://liumeitizhinan.biz/reviews/feimao/)
+- [二猫云深度评测](https://liumeitizhinan.biz/reviews/ermao/)
+- [唯兔云深度评测](https://liumeitizhinan.biz/reviews/weitu/)
+- [一翻云深度评测](https://liumeitizhinan.biz/reviews/yifan/)
+- [品牌与客户端对比中心（7 篇深度对比）](https://liumeitizhinan.biz/compare/)
+- [流媒体与 AI 实测记录中心（297 条可用性记录）](https://liumeitizhinan.biz/tools/streaming-check/)
+
+## 常用排障与核心客户端
+- [Netflix 4K 解锁硬件/DRM/带宽全链路](https://liumeitizhinan.biz/ai/netflix-4k-guide/)
+- [Claude 防封号与固定节点分流指南](https://liumeitizhinan.biz/ai/claude-guide/)
+- [Gemini 地区受限与送中排查](https://liumeitizhinan.biz/ai/gemini-guide/)
+- [Clash Verge Rev 配置教程](https://liumeitizhinan.biz/guides/clash-mihomo-guide/)
+- [Shadowrocket 小火箭使用教程](https://liumeitizhinan.biz/guides/shadowrocket-guide/)
+- [OpenWrt Nikki 软路由透明代理](https://liumeitizhinan.biz/guides/openwrt-nikki-setup/)
+- [流媒体套餐倍率与真实单价计算器](https://liumeitizhinan.biz/pricing/traffic-and-multiplier/)
+
+## 编辑标准与透明披露
+- [编辑与实测数据标准](https://liumeitizhinan.biz/editorial-standards/)
+- [推广关系与利益披露](https://liumeitizhinan.biz/disclosure/)
+- [数据冲突（15 项）与更正说明](https://liumeitizhinan.biz/corrections/)
+- [服务风险与替代方案](https://liumeitizhinan.biz/risk/)
+- [全站规范索引 (llms-full.txt)](https://liumeitizhinan.biz/llms-full.txt)

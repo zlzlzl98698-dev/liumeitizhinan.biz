@@ -1,0 +1,3054 @@
+{
+  "updatedAt": "2026-11-27",
+  "totalTasks": 113,
+  "publishedOrUpgradedCount": 106,
+  "backlogCount": 7,
+  "searchVolumePolicy": "未接入 GSC/Bing 实时导出数据时统一标为 unknown_unverified，绝不编造月搜索量。",
+  "tasks": [
+    {
+      "id": "REC-L3-01",
+      "keyword": "机场推荐应该看哪些核心指标",
+      "primaryKeyword": "机场推荐核心指标",
+      "secondaryKeywords": [
+        "IEPL 专线机场怎么判断",
+        "机场节点倍率与晚高峰测试",
+        "如何选稳定机场"
+      ],
+      "longTailQuestions": [
+        "机场节点数量越多越好吗？",
+        "如何判断机场晚高峰是否稳定？",
+        "自研客户端和第三方订阅怎么选？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "准备购买主力或备用机场的个人用户",
+      "contentType": "选择判断指南",
+      "parentTopic": "/recommend/",
+      "parentCluster": "/recommend/stable/",
+      "targetUrl": "/recommend/how-to-choose/",
+      "articleTitle": "买前必看：机场推荐应该看哪些核心指标？（IEPL、倍率与晚高峰实测判断）",
+      "relatedArticles": [
+        "/recommend/multi-device-guide/",
+        "/pricing/ten-yuan-plans/",
+        "/network/three-isp-routing/",
+        "/risk/avoid-pitfalls/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "xingdaomeng",
+        "feimao"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/brands.json、data/test-records.json、2026-08-19 实测图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REC-L3-02",
+      "keyword": "多设备用户如何选择机场",
+      "primaryKeyword": "多设备机场推荐与并发规则",
+      "secondaryKeywords": [
+        "不限设备机场怎么选",
+        "家庭共享软路由机场",
+        "同账号多设备同时在线风控"
+      ],
+      "longTailQuestions": [
+        "不限设备数量和限制 IP 数有什么区别？",
+        "OpenWrt 软路由算一台设备吗？",
+        "多设备共用订阅会触发封号吗？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "同时使用电脑、手机、平板及家庭软路由的多端用户",
+      "contentType": "选择判断指南",
+      "parentTopic": "/recommend/",
+      "parentCluster": "/recommend/beginners/",
+      "targetUrl": "/recommend/multi-device-guide/",
+      "articleTitle": "多设备与家庭用户怎么选机场？并发数、IP 限制与软路由共用意风险详解",
+      "relatedArticles": [
+        "/recommend/how-to-choose/",
+        "/guides/multi-device-router/",
+        "/pricing/traffic-and-multiplier/",
+        "/brands/xingdaomeng/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "xingdaomeng",
+        "ermao",
+        "muguang"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/brands.json 中各品牌不限设备/并发说明",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REC-L3-03",
+      "keyword": "自研客户端机场适合新手吗",
+      "primaryKeyword": "自研客户端 vs 第三方客户端机场选择",
+      "secondaryKeywords": [
+        "专属客户端机场优缺点",
+        "不用配置 Clash 的机场"
+      ],
+      "longTailQuestions": [
+        "飞猫云这类只给专属端不给订阅的品牌有什么弊端？",
+        "新手买自研客户端机场后期能改用软路由吗？"
+      ],
+      "searchIntent": "Comparison",
+      "audience": "首次购买网络服务的零基础新手",
+      "contentType": "方案比较",
+      "parentTopic": "/recommend/",
+      "parentCluster": "/recommend/beginners/",
+      "targetUrl": "/compare/guangsu-vs-feimao/",
+      "articleTitle": "光速云 vs 飞猫云深度对比：自研通用双栖 vs 纯专属端新手怎么选？",
+      "relatedArticles": [
+        "/reviews/guangsu/",
+        "/reviews/feimao/",
+        "/guides/subscription-setup/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "feimao"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、2026-08-11 截图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REC-BL-04",
+      "keyword": "新手第一次购买机场应该选月付还是年付",
+      "primaryKeyword": "新手机场月付还是年付",
+      "secondaryKeywords": [
+        "年付机场风险",
+        "月付试用策略"
+      ],
+      "longTailQuestions": [
+        "为什么不建议新手直接买便宜年付？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "第一次尝试机场的预算敏感用户",
+      "contentType": "选择判断",
+      "parentTopic": "/recommend/",
+      "parentCluster": "/recommend/beginners/",
+      "targetUrl": "/recommend/monthly-vs-annual-first-buy/",
+      "articleTitle": "新手第一次买机场选月付还是年付？用真实退改政策与跑路样本算清试错账",
+      "relatedArticles": [
+        "/pricing/billing-cycles/",
+        "/risk/free-nodes-and-annual/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "feimao"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/pricing.json",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "PRI-L3-01",
+      "keyword": "10元到20元月付机场怎么选",
+      "primaryKeyword": "10元到20元月付机场选择",
+      "secondaryKeywords": [
+        "20元以内月付机场",
+        "低价月付机场对比",
+        "便宜月付不踩坑"
+      ],
+      "longTailQuestions": [
+        "10 元左右能买到真正月付的 IEPL 专线吗？",
+        "标价 8 元/月为什么结算要付 99 元？",
+        "20 元以内月付多少 GB 算合理？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "每月预算 10–20 元寻找真正可月付方案的用户",
+      "contentType": "价格对比",
+      "parentTopic": "/pricing/",
+      "parentCluster": "/pricing/budget/",
+      "targetUrl": "/pricing/ten-yuan-plans/",
+      "articleTitle": "10 元到 20 元月付机场怎么选？揭开年付折算陷阱与真实月付套餐对比",
+      "relatedArticles": [
+        "/pricing/traffic-and-multiplier/",
+        "/recommend/how-to-choose/",
+        "/reviews/xiaoming/",
+        "/reviews/ermao/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "ermao",
+        "wuyou",
+        "xiaoming",
+        "weitu"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/pricing.json 210 档结构化价格表",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "PRI-L3-02",
+      "keyword": "100GB 300GB 500GB 机场流量够用多久",
+      "primaryKeyword": "机场流量额度与倍率计算公式",
+      "secondaryKeywords": [
+        "机场节点倍率是什么意思",
+        "看 4K YouTube 一小时多少流量",
+        "Netflix 4K 流量消耗"
+      ],
+      "longTailQuestions": [
+        "100GB 每天看 1080p 或 4K 能看几天？",
+        "2× 和 5× 倍率节点怎么扣除套餐流量？",
+        "ChatGPT 文本对话和图片生成耗流量吗？"
+      ],
+      "searchIntent": "Informational",
+      "audience": "不确定该买 60GB、168GB 还是 500GB 套餐的用户",
+      "contentType": "价格与计算指南",
+      "parentTopic": "/pricing/",
+      "parentCluster": "/pricing/rules/",
+      "targetUrl": "/pricing/traffic-and-multiplier/",
+      "articleTitle": "100GB、300GB 与 500GB 机场流量够用多久？倍率扣费公式与 4K 实测消耗核算",
+      "relatedArticles": [
+        "/pricing/ten-yuan-plans/",
+        "/ai/netflix-4k-guide/",
+        "/guides/streaming-optimization/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "xingdaomeng",
+        "weifeng"
+      ],
+      "conversionIntent": "medium",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/pricing.json、data/streaming-services.json",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "PRI-BL-03",
+      "keyword": "一元机场和一分机场限制有哪些",
+      "primaryKeyword": "一元机场限制与风控分析",
+      "secondaryKeywords": [
+        "低价跑路机场特征",
+        "共享池 IP 封锁"
+      ],
+      "longTailQuestions": [
+        "为什么 1 元月付机场看 Netflix 和用 ChatGPT 经常失败？"
+      ],
+      "searchIntent": "Informational",
+      "audience": "被超低价引流但反复断流或无法用 AI 的用户",
+      "contentType": "价格分析",
+      "parentTopic": "/pricing/",
+      "parentCluster": "/pricing/budget/",
+      "targetUrl": "/pricing/one-yuan-airport-limits/",
+      "articleTitle": "一元机场与低价超售盘有哪些常见限制？从带宽配额到 IP 脏污的真实成本账",
+      "relatedArticles": [
+        "/pricing/ten-yuan-plans/",
+        "/risk/free-nodes-and-annual/"
+      ],
+      "relatedBrands": [
+        "xiaoming",
+        "dalaoyun"
+      ],
+      "conversionIntent": "medium",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "行业公开成本结构与风险核查条目",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-GUANGSU",
+      "keyword": "光速云怎么样 靠谱吗 2026评测",
+      "primaryKeyword": "光速云深度评测",
+      "secondaryKeywords": [
+        "光速云三网测速",
+        "光速云 ChatGPT Gemini 解锁实测",
+        "光速云优缺点分析"
+      ],
+      "longTailQuestions": [
+        "光速云香港节点为什么不能用网页版 ChatGPT？",
+        "光速云轻量版 59GB 和 69GB 冲突是怎么回事？",
+        "光速云和星岛梦、飞猫云怎么选？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "在决策是否下单光速云、希望核实实测优缺点的用户",
+      "contentType": "品牌万字级深度评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/guangsu/",
+      "articleTitle": "光速云深度评测（2026 万字版）：三网 MiaoKo 实测原图拆解、优缺点与同价位比较",
+      "relatedArticles": [
+        "/brands/guangsu/",
+        "/compare/guangsu-vs-feimao/",
+        "/compare/guangsu-vs-xingdaomeng/",
+        "/compare/guangsu-vs-ermao/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "feimao",
+        "xingdaomeng",
+        "ermao"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "主推光速云品牌信息.txt、推广机场品牌清单.txt、2026-08-11 截图、2026-08-19 5张 MiaoKo 原图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-FEIMAO",
+      "keyword": "飞猫云怎么样 飞猫云评测",
+      "primaryKeyword": "飞猫云深度评测",
+      "secondaryKeywords": [
+        "飞猫云不支持 Clash",
+        "飞猫云学生版 84元年付",
+        "飞猫云专属客户端"
+      ],
+      "longTailQuestions": [
+        "飞猫云可以用 Clash Verge 或小火箭吗？",
+        "飞猫云 25 元月付和光速云怎么选？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "希望确认飞猫云纯专属客户端限制与易用性的新手用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/feimao/",
+      "articleTitle": "飞猫云深度评测（2026）：纯专属客户端零配置模式、7 档套餐与适用人群边界",
+      "relatedArticles": [
+        "/brands/feimao/",
+        "/compare/guangsu-vs-feimao/",
+        "/recommend/beginners/"
+      ],
+      "relatedBrands": [
+        "feimao",
+        "guangsu",
+        "wuyou"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、2026-08-11 测速截图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-XINGDAOMENG",
+      "keyword": "星岛梦怎么样 星岛梦评测",
+      "primaryKeyword": "星岛梦深度评测",
+      "secondaryKeywords": [
+        "星岛梦 IEPL Trojan",
+        "星岛梦不限时套餐",
+        "星岛梦 2020 年老牌"
+      ],
+      "longTailQuestions": [
+        "星岛梦不限时 100G/300G/1TB 性价比高吗？",
+        "星岛梦与光速云同价位选哪个？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "关注老牌稳定性、亚太小语种节点及不限时包的用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/xingdaomeng/",
+      "articleTitle": "星岛梦深度评测（2026）：2020 老牌 IEPL + Trojan 9 档梯度、不限时价值与测速核查",
+      "relatedArticles": [
+        "/brands/xingdaomeng/",
+        "/compare/guangsu-vs-xingdaomeng/",
+        "/pricing/pay-as-you-go/"
+      ],
+      "relatedBrands": [
+        "xingdaomeng",
+        "guangsu",
+        "weitu"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、2026-08-11 凌晨测速截图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-ERMAO",
+      "keyword": "二猫云怎么样 二猫云评测",
+      "primaryKeyword": "二猫云深度评测",
+      "secondaryKeywords": [
+        "二猫云没有新加坡节点",
+        "二猫云白猫套餐 20元",
+        "二猫云定制客户端"
+      ],
+      "longTailQuestions": [
+        "二猫云缺少新加坡节点对用 Gemini 和 Disney+ 有什么影响？",
+        "二猫云白猫套餐 130GB 值得买吗？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "关注不限设备数与 ¥20 月付长期定位的用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/ermao/",
+      "articleTitle": "二猫云深度评测（2026）：聚焦港日美缺新加坡的取舍、独家端策略与 ¥20 起套餐解析",
+      "relatedArticles": [
+        "/brands/ermao/",
+        "/compare/guangsu-vs-ermao/",
+        "/recommend/multi-device-guide/"
+      ],
+      "relatedBrands": [
+        "ermao",
+        "guangsu",
+        "xingdaomeng"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、2026-08-11 测速截图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-MUGUANG",
+      "keyword": "暮光加速怎么样 暮光加速评测",
+      "primaryKeyword": "暮光加速深度评测",
+      "secondaryKeywords": [
+        "暮光加速 BGP 调度",
+        "暮光加速 9元起 vs 20元月付",
+        "暮光加速优惠码冲突"
+      ],
+      "longTailQuestions": [
+        "暮光加速宣传 9 元起为什么普通月付最低 20 元？",
+        "暮光加速有没有 2026-08 实测截图？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "研究团队/跨平台 BGP 机场但注重数据核实的用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/muguang/",
+      "articleTitle": "暮光加速深度评测（2026）：BGP 多平台调度定位、9 元折算口径争议与数据缺口核查",
+      "relatedArticles": [
+        "/brands/muguang/",
+        "/pricing/billing-cycles/",
+        "/corrections/"
+      ],
+      "relatedBrands": [
+        "muguang",
+        "guangsu",
+        "weifeng"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt（含 2 处数据冲突记录）",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-WEIFENG",
+      "keyword": "微风网络怎么样 微风机场评测",
+      "primaryKeyword": "微风网络深度评测",
+      "secondaryKeywords": [
+        "微风网络清风版 137元",
+        "微风网络 IEPL 入门",
+        "微风附加测速图核查"
+      ],
+      "longTailQuestions": [
+        "微风网络 11 元档清风版适合看 4K 视频吗？",
+        "微风网络测速图为什么没有列在 manifest 主清单中？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "寻找 11 元左右入门 IEPL 专线及不限时副包的用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/weifeng/",
+      "articleTitle": "微风网络深度评测（2026）：清风到御风 6 档结构、IEPL 入门成本与未入册测速图复核",
+      "relatedArticles": [
+        "/brands/weifeng/",
+        "/pricing/ten-yuan-plans/",
+        "/pricing/pay-as-you-go/"
+      ],
+      "relatedBrands": [
+        "weifeng",
+        "guangsu",
+        "firefly"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、压缩包内 微风-节点测速实测.png",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-XIAOMING",
+      "keyword": "小明Cloud怎么样 小明机场 5元600G",
+      "primaryKeyword": "小明Cloud 深度评测与风险核查",
+      "secondaryKeywords": [
+        "小明Cloud 5元600G",
+        "小明Cloud 三网精品线路",
+        "小明Cloud 测速数据冲突"
+      ],
+      "longTailQuestions": [
+        "小明Cloud 5 元 600G 是真的吗，有哪些风险？",
+        "为什么小明Cloud 和光速云 10 月测速表完全相同？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "被 5 元 600G 极低单价吸引、想核实真伪与风险的用户",
+      "contentType": "品牌风险型深度评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/xiaoming/",
+      "articleTitle": "小明Cloud 深度评测（2026）：¥5/600G 极低单价、三网精品声明与模板冲突预警",
+      "relatedArticles": [
+        "/brands/xiaoming/",
+        "/compare/xiaoming-vs-guangsu/",
+        "/risk/avoid-pitfalls/"
+      ],
+      "relatedBrands": [
+        "xiaoming",
+        "guangsu",
+        "dalaoyun"
+      ],
+      "conversionIntent": "medium",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、DATA-CONFLICTS.md 测速表误贴记录",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-YINXINGREN",
+      "keyword": "隐形人机场怎么样 隐形人评测",
+      "primaryKeyword": "隐形人深度评测",
+      "secondaryKeywords": [
+        "隐形人 IPLC 专属客户端",
+        "隐形人 yxr888 vs moon80",
+        "隐形人 24元白银纪元"
+      ],
+      "longTailQuestions": [
+        "隐形人月付 24 元起步，值不值得放弃 Clash 第三方客户端？",
+        "隐形人缺乏 2026-08 测速图购买前如何核实？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "考虑企业 IPLC 专线但关注高价门槛与无第三方订阅限制的用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/yinxingren/",
+      "articleTitle": "隐形人深度评测（2026）：¥24 起企业 IPLC 定价、纯专属端代价与实测空白评估",
+      "relatedArticles": [
+        "/brands/yinxingren/",
+        "/network/iepl-vs-iplc/",
+        "/risk/account-and-refund/"
+      ],
+      "relatedBrands": [
+        "yinxingren",
+        "shanyue",
+        "guangsu"
+      ],
+      "conversionIntent": "medium",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt（含双优惠码冲突与 0 测速状态）",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "CMP-01",
+      "keyword": "光速云 vs 飞猫云",
+      "primaryKeyword": "光速云 vs 飞猫云对比",
+      "secondaryKeywords": [
+        "光速云和飞猫云哪个好用",
+        "自研客户端 vs Clash 通用订阅"
+      ],
+      "longTailQuestions": [
+        "新手买飞猫云还是光速云？",
+        "两家月付 25 元档流量和客户端差别在哪？"
+      ],
+      "searchIntent": "Comparison",
+      "audience": "在光速云和飞猫云 25 元档/年付入门档之间犹豫的用户",
+      "contentType": "品牌对比",
+      "parentTopic": "/compare/",
+      "parentCluster": "/compare/",
+      "targetUrl": "/compare/guangsu-vs-feimao/",
+      "articleTitle": "光速云 vs 飞猫云深度对比（2026）：通用订阅兼容、实测证据与新手适用差异",
+      "relatedArticles": [
+        "/reviews/guangsu/",
+        "/reviews/feimao/",
+        "/brands/guangsu/",
+        "/brands/feimao/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "feimao"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/brands.json、data/test-records.json",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "CMP-02",
+      "keyword": "光速云 vs 星岛梦",
+      "primaryKeyword": "光速云 vs 星岛梦对比",
+      "secondaryKeywords": [
+        "2020年老牌IEPL机场对比",
+        "VLESS vs Trojan 机场对比",
+        "不限时套餐对比"
+      ],
+      "longTailQuestions": [
+        "光速云 147 永久包和星岛梦 100/300/600 不限时怎么选？"
+      ],
+      "searchIntent": "Comparison",
+      "audience": "在 2020 年两大主力 IEPL 品牌之间比价择优的中高阶用户",
+      "contentType": "品牌对比",
+      "parentTopic": "/compare/",
+      "parentCluster": "/compare/",
+      "targetUrl": "/compare/guangsu-vs-xingdaomeng/",
+      "articleTitle": "光速云 vs 星岛梦对比（2026）：2020 年两大 IEPL 老牌套餐、协议与不限时流量分析",
+      "relatedArticles": [
+        "/reviews/guangsu/",
+        "/reviews/xingdaomeng/",
+        "/brands/guangsu/",
+        "/brands/xingdaomeng/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "xingdaomeng"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/brands.json、2026-08-11 / 08-19 测速档案",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "CMP-03",
+      "keyword": "光速云 vs 二猫云",
+      "primaryKeyword": "光速云 vs 二猫云对比",
+      "secondaryKeywords": [
+        "缺新加坡节点影响",
+        "¥20白猫 vs ¥25极速版",
+        "定制端 vs 通用端"
+      ],
+      "longTailQuestions": [
+        "二猫云每月便宜 5 元但少新加坡节点，值得省这 5 元吗？"
+      ],
+      "searchIntent": "Comparison",
+      "audience": "对比 20 元档二猫云与 25 元档光速云节点与流量的用户",
+      "contentType": "品牌对比",
+      "parentTopic": "/compare/",
+      "parentCluster": "/compare/",
+      "targetUrl": "/compare/guangsu-vs-ermao/",
+      "articleTitle": "光速云 vs 二猫云深度对比：新加坡节点完整性、不限设备与月付单 GB 成本核算",
+      "relatedArticles": [
+        "/reviews/guangsu/",
+        "/reviews/ermao/",
+        "/brands/guangsu/",
+        "/brands/ermao/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "ermao"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/brands.json、推广机场品牌清单.txt",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "CMP-04",
+      "keyword": "小明Cloud vs 光速云",
+      "primaryKeyword": "小明Cloud vs 光速云对比",
+      "secondaryKeywords": [
+        "5元600G对比25元168G",
+        "低价三网精品 vs IEPL 实测证据"
+      ],
+      "longTailQuestions": [
+        "5 元 600G 的小明Cloud 能否替代 25 元 168G 的光速云做主力？"
+      ],
+      "searchIntent": "Comparison",
+      "audience": "被超低价套餐与常规专线套餐巨大价差困惑的消费者",
+      "contentType": "品牌对比",
+      "parentTopic": "/compare/",
+      "parentCluster": "/compare/",
+      "targetUrl": "/compare/xiaoming-vs-guangsu/",
+      "articleTitle": "小明Cloud vs 光速云对比：极低单价（¥5/600G）与可验证证据链之间的风险权衡",
+      "relatedArticles": [
+        "/reviews/xiaoming/",
+        "/reviews/guangsu/",
+        "/pricing/ten-yuan-plans/"
+      ],
+      "relatedBrands": [
+        "xiaoming",
+        "guangsu"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/brands.json、DATA-CONFLICTS.md",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-WEITU",
+      "keyword": "唯兔云怎么样 唯兔云评测",
+      "primaryKeyword": "唯兔云深度评测",
+      "secondaryKeywords": [
+        "唯兔云 14.9元限时",
+        "唯兔云永久不限时",
+        "唯兔云 IPLC Trojan"
+      ],
+      "longTailQuestions": [
+        "唯兔云 100G/200G/500G 不限时包哪个最划算？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "对比 15–20 元真月付及百元不限时包的用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/weitu/",
+      "articleTitle": "唯兔云深度评测（2026）：IPLC + 10 档完整价格、¥14.9 限时月付与永久包核算",
+      "relatedArticles": [
+        "/brands/weitu/",
+        "/pricing/ten-yuan-plans/",
+        "/pricing/pay-as-you-go/"
+      ],
+      "relatedBrands": [
+        "weitu",
+        "xingdaomeng",
+        "ermao"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、2026-08-11 截图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-YIFAN",
+      "keyword": "一翻云怎么样 一翻云评测",
+      "primaryKeyword": "一翻云深度评测",
+      "secondaryKeywords": [
+        "一翻云 Hysteria 2 VLESS-Reality",
+        "一翻云 20元 150G",
+        "一翻云优惠码"
+      ],
+      "longTailQuestions": [
+        "一翻云原生住宅 IP 和 0 丢包宣传能全信吗？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "看重三协议自由度与 ¥20–¥35 高性价比月付的用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/yifan/",
+      "articleTitle": "一翻云深度评测（2026）：三协议自由度（Hy2/Reality/SS）、原生住宅 IP 宣传与优惠码冲突",
+      "relatedArticles": [
+        "/brands/yifan/",
+        "/pricing/ten-yuan-plans/"
+      ],
+      "relatedBrands": [
+        "yifan",
+        "guangsu"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、2026-08-11 凌晨截图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-SOGO",
+      "keyword": "SOGO云怎么样 SOGO云评测",
+      "primaryKeyword": "SOGO 云深度评测",
+      "secondaryKeywords": [
+        "SOGO云 15国节点",
+        "SOGO云不支持 Clash",
+        "SOGO10000 优惠码"
+      ],
+      "longTailQuestions": [
+        "SOGO 云写着支持软路由却不给订阅怎么回事？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "需要多冷门国家节点的专属客户端用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/sogo/",
+      "articleTitle": "SOGO 云深度评测（2026）：15 国节点广度优势与“纯专属端不支持 Clash”内部冲突剖析",
+      "relatedArticles": [
+        "/brands/sogo/",
+        "/compare/guangsu-vs-feimao/"
+      ],
+      "relatedBrands": [
+        "sogo",
+        "quanqiu",
+        "guangsu"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、2026-08-11 傍晚截图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REV-QUANQIU",
+      "keyword": "全球云怎么样 全球云评测",
+      "primaryKeyword": "全球云深度评测",
+      "secondaryKeywords": [
+        "全球云 60+ 节点",
+        "全球云 qq88 vs qqy7777",
+        "全球云专属客户端"
+      ],
+      "longTailQuestions": [
+        "全球云 BGP 月付 ¥20 值得替代通用订阅机场吗？"
+      ],
+      "searchIntent": "Commercial Investigation",
+      "audience": "关注 60+ 节点与 ¥20 起专属端 BGP 入门的用户",
+      "contentType": "品牌独立评测",
+      "parentTopic": "/brands/",
+      "parentCluster": "/reviews/",
+      "targetUrl": "/reviews/quanqiu/",
+      "articleTitle": "全球云深度评测（2026）：60+ 节点 Trojan/SS 双协议、BGP+不限时体系与纯专属端限制",
+      "relatedArticles": [
+        "/brands/quanqiu/",
+        "/compare/tiziyun-vs-yinxingren/"
+      ],
+      "relatedBrands": [
+        "quanqiu",
+        "sogo",
+        "tiziyun"
+      ],
+      "conversionIntent": "transactional-ready",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "推广机场品牌清单.txt、2026-08-11 下午截图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "CMP-05",
+      "keyword": "梯子云 vs 隐形人",
+      "primaryKeyword": "梯子云 vs 隐形人对比",
+      "secondaryKeywords": [
+        "60+ 节点机场对比",
+        "开放通用订阅 vs 纯专属端"
+      ],
+      "longTailQuestions": [
+        "规格相近的情况下选梯子云还是隐形人？"
+      ],
+      "searchIntent": "Comparison",
+      "audience": "对比 60+ 节点专线宣传、在双端支持与封闭端间抉择的用户",
+      "contentType": "品牌对比",
+      "parentTopic": "/compare/",
+      "parentCluster": "/compare/",
+      "targetUrl": "/compare/tiziyun-vs-yinxingren/",
+      "articleTitle": "梯子云 vs 隐形人深度对比（2026）：60+ 节点同级规格，“双端自由”与“纯专属端”抉择",
+      "relatedArticles": [
+        "/reviews/yinxingren/",
+        "/brands/tiziyun/",
+        "/brands/yinxingren/"
+      ],
+      "relatedBrands": [
+        "tiziyun",
+        "yinxingren"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/brands.json、推广机场品牌清单.txt 第27/28节",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "CMP-06",
+      "keyword": "微风网络 vs 星岛梦",
+      "primaryKeyword": "微风网络 vs 星岛梦对比",
+      "secondaryKeywords": [
+        "500GB 月付机场对比",
+        "百元不限时包对比"
+      ],
+      "longTailQuestions": [
+        "500G 月付和永久备用包，微风网络和星岛梦买谁更划算？"
+      ],
+      "searchIntent": "Comparison",
+      "audience": "在 IEPL 专线中高流量月包或不限时包间对比的用户",
+      "contentType": "品牌对比",
+      "parentTopic": "/compare/",
+      "parentCluster": "/compare/",
+      "targetUrl": "/compare/weifeng-vs-xingdaomeng/",
+      "articleTitle": "微风网络 vs 星岛梦深度对比（2026）：IEPL 中高流量与不限时备胎怎么选更划算？",
+      "relatedArticles": [
+        "/reviews/weifeng/",
+        "/reviews/xingdaomeng/",
+        "/brands/weifeng/",
+        "/brands/xingdaomeng/"
+      ],
+      "relatedBrands": [
+        "weifeng",
+        "xingdaomeng"
+      ],
+      "conversionIntent": "high",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "data/brands.json、2026-08-11 快照",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "GDE-L3-01",
+      "keyword": "机场订阅链接如何使用 导入流程",
+      "primaryKeyword": "机场订阅导入全流程",
+      "secondaryKeywords": [
+        "Clash 订阅 vs 通用 Base64 订阅",
+        "自研端与第三方订阅区别",
+        "自动更新订阅间隔"
+      ],
+      "longTailQuestions": [
+        "复制的订阅链接放进浏览器打开能看吗？",
+        "Clash YAML 和 Base64 通用订阅买错怎么转换？"
+      ],
+      "searchIntent": "How-to",
+      "audience": "刚购买套餐不知如何导入客户端的新手",
+      "contentType": "教程文章",
+      "parentTopic": "/guides/",
+      "parentCluster": "/guides/",
+      "targetUrl": "/guides/subscription-setup/",
+      "articleTitle": "机场订阅链接如何使用？获取、分辨格式、安全导入与自动更新全流程指南",
+      "relatedArticles": [
+        "/guides/clash-mihomo-guide/",
+        "/guides/shadowrocket-guide/",
+        "/risk/subscription-converter-risk/",
+        "/troubleshooting/subscription-update-failed/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "feimao",
+        "tiziyun"
+      ],
+      "conversionIntent": "low",
+      "contentPriority": "P0",
+      "contentStatus": "upgraded",
+      "sourceRequirements": "第三方代理客户端.txt、客户端官方文档规范",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "GDE-L3-02",
+      "keyword": "Clash Verge Rev 如何安装与导入订阅",
+      "primaryKeyword": "Clash Verge Rev 配置教程",
+      "secondaryKeywords": [
+        "Mihomo 内核设置",
+        "Clash Verge 服务模式安装",
+        "规则模式与全局模式区别"
+      ],
+      "longTailQuestions": [
+        "Clash Verge Rev 和原版 Clash for Windows 有什么关系？",
+        "为什么必须安装 Service Mode 服务模式？"
+      ],
+      "searchIntent": "How-to",
+      "audience": "Windows / macOS / Linux 桌面端用户",
+      "contentType": "教程文章",
+      "parentTopic": "/guides/",
+      "parentCluster": "/clients/windows/",
+      "targetUrl": "/guides/clash-mihomo-guide/",
+      "articleTitle": "Clash Verge Rev 安装、订阅导入与 Mihomo 核心规则分流实战教程（2026）",
+      "relatedArticles": [
+        "/guides/cfw-to-clash-verge/",
+        "/guides/tun-and-dns/",
+        "/guides/claude-fixed-node-rules/",
+        "/clients/clash-verge-rev/"
+      ],
+      "relatedBrands": [
+        "guangsu"
+      ],
+      "conversionIntent": "low",
+      "contentPriority": "P0",
+      "contentStatus": "upgraded",
+      "sourceRequirements": "第三方代理客户端.txt、Clash Verge Rev 开源发布规范",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "GDE-L3-03",
+      "keyword": "Shadowrocket 小火箭如何添加订阅",
+      "primaryKeyword": "Shadowrocket 添加订阅与配置教程",
+      "secondaryKeywords": [
+        "iOS 小火箭分流设置",
+        "小火箭连通性测试",
+        "iPhone 锁屏断流设置"
+      ],
+      "longTailQuestions": [
+        "Shadowrocket 全局路由选配置还是代理？",
+        "小火箭更新订阅时提示证书或网络错误怎么办？"
+      ],
+      "searchIntent": "How-to",
+      "audience": "iPhone 与 iPad iOS/iPadOS 用户",
+      "contentType": "教程文章",
+      "parentTopic": "/guides/",
+      "parentCluster": "/clients/ios/",
+      "targetUrl": "/guides/shadowrocket-guide/",
+      "articleTitle": "iPhone Shadowrocket 小火箭添加订阅、按需连接与流媒体/AI 分流完整教程",
+      "relatedArticles": [
+        "/clients/ios/",
+        "/clients/shadowrocket/",
+        "/guides/subscription-setup/",
+        "/troubleshooting/ipv6-leak-error/"
+      ],
+      "relatedBrands": [
+        "guangsu"
+      ],
+      "conversionIntent": "low",
+      "contentPriority": "P0",
+      "contentStatus": "upgraded",
+      "sourceRequirements": "第三方代理客户端.txt",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "GDE-L3-04",
+      "keyword": "Clash Verge TUN 模式与 DNS 防泄漏怎么设置",
+      "primaryKeyword": "TUN 模式与 DNS 防泄漏配置",
+      "secondaryKeywords": [
+        "Fake-IP vs Redir-Host",
+        "Desktop ChatGPT 客户端无法代理",
+        "YouTube 送中 DNS 排查"
+      ],
+      "longTailQuestions": [
+        "开启 TUN 模式什么时候最需要？",
+        "开启 TUN 后国内网银或内网访问变慢怎么办？"
+      ],
+      "searchIntent": "How-to",
+      "audience": "使用桌面 AI 客户端、游戏平台或遭遇 DNS 泄漏的用户",
+      "contentType": "教程文章",
+      "parentTopic": "/guides/",
+      "parentCluster": "/clients/windows/",
+      "targetUrl": "/guides/tun-and-dns/",
+      "articleTitle": "TUN 虚拟网卡模式与 DNS Fake-IP 防泄漏配置指南：解决桌面 App 不走代理问题",
+      "relatedArticles": [
+        "/guides/clash-mihomo-guide/",
+        "/troubleshooting/tun-mode-error/",
+        "/troubleshooting/dns-resolution-error/",
+        "/ai/chatgpt-guide/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "none",
+      "contentPriority": "P0",
+      "contentStatus": "upgraded",
+      "sourceRequirements": "Mihomo 官方 TUN & DNS 规范",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "GDE-L3-05",
+      "keyword": "Claude 防封号锁单节点 Clash 分流规则设置",
+      "primaryKeyword": "Clash Claude 锁死单节点规则配置",
+      "secondaryKeywords": [
+        "Claude 换 IP 封号怎么避免",
+        "Select 分组固定美国节点",
+        "AI 工具分流规则写法"
+      ],
+      "longTailQuestions": [
+        "为什么 url-test 自动测速切节点容易封 Claude 账号？",
+        "如何在 Clash Verge Rev 中为 Anthropic/OpenAI 单独绑定固定美国节点？"
+      ],
+      "searchIntent": "How-to",
+      "audience": "已订阅 Claude Pro 或高频使用 Anthropic API/Web 的重度 AI 用户",
+      "contentType": "教程文章",
+      "parentTopic": "/guides/",
+      "parentCluster": "/recommend/ai-tools/",
+      "targetUrl": "/guides/claude-fixed-node-rules/",
+      "articleTitle": "Claude 防封号实战：在 Clash Verge Rev 中利用 Select 分组彻底锁死单节点配置示例",
+      "relatedArticles": [
+        "/ai/claude-guide/",
+        "/recommend/ai-tools/",
+        "/guides/tun-and-dns/",
+        "/troubleshooting/claude-access-error/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "sujie"
+      ],
+      "conversionIntent": "low",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "Clash/Mihomo rule-providers 语法与 AI 风控公开经验",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "GDE-L3-06",
+      "keyword": "Clash for Windows 迁移至 Clash Verge Rev 教程",
+      "primaryKeyword": "Clash for Windows 迁移 Clash Verge Rev",
+      "secondaryKeywords": [
+        "CFW 停更替代方案",
+        "关闭旧版系统代理残余",
+        "旧订阅配置文件导入"
+      ],
+      "longTailQuestions": [
+        "卸载 Clash for Windows 前不关系统代理会断网吗？",
+        "CFW 的本地 yaml 配置能直接拖进 Clash Verge Rev 吗？"
+      ],
+      "searchIntent": "How-to",
+      "audience": "仍在桌面使用已停止维护旧客户端的存量用户",
+      "contentType": "教程文章",
+      "parentTopic": "/guides/",
+      "parentCluster": "/clients/windows/",
+      "targetUrl": "/guides/cfw-to-clash-verge/",
+      "articleTitle": "Windows/macOS 从旧版 Clash for Windows 平滑迁移至 Clash Verge Rev 完整指南",
+      "relatedArticles": [
+        "/clients/clash-verge-rev/",
+        "/clients/windows/",
+        "/guides/clash-mihomo-guide/",
+        "/troubleshooting/connected-no-internet/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "none",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "第三方代理客户端.txt（明确标注已停更风险）",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "AI-L3-01",
+      "keyword": "Netflix 解锁失败与代理报错排查",
+      "primaryKeyword": "Netflix 使用指南与解锁排查",
+      "secondaryKeywords": [
+        "Netflix 自制剧 vs 非自制版权剧",
+        "Netflix M7111-5059",
+        "香港/日本/新加坡奈飞片库区别"
+      ],
+      "longTailQuestions": [
+        "为什么同一机场的香港节点能看完整奈飞，换一条却只剩自制剧？",
+        "Netflix 同户家庭验证如何影响跨境节点切换？"
+      ],
+      "searchIntent": "Informational",
+      "audience": "使用 Netflix 追剧及遇到自制剧降级的用户",
+      "contentType": "平台技术专题",
+      "parentTopic": "/ai/",
+      "parentCluster": "/recommend/streaming/",
+      "targetUrl": "/ai/netflix-guide/",
+      "articleTitle": "Netflix 使用指南（2026）：自制剧 vs 全解锁判定、地区片库差异与报错处理",
+      "relatedArticles": [
+        "/ai/netflix-4k-guide/",
+        "/ai/netflix-regions-account/",
+        "/troubleshooting/netflix-network-error/",
+        "/recommend/streaming/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "xingdaomeng"
+      ],
+      "conversionIntent": "low",
+      "contentPriority": "P0",
+      "contentStatus": "upgraded",
+      "sourceRequirements": "data/streaming-services.json、2026-08-19 实测表现",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "AI-L3-02",
+      "keyword": "ChatGPT 无法访问与地区不支持怎么办",
+      "primaryKeyword": "ChatGPT 网络使用与地区环境指南",
+      "secondaryKeywords": [
+        "ChatGPT 香港节点为什么用不了网页版",
+        "OpenAI 仅限 APP 可用",
+        "ChatGPT 登录风控排查"
+      ],
+      "longTailQuestions": [
+        "为什么香港节点能上 ChatGPT iOS App 却打不开网页版？",
+        "换用美国/新加坡节点仍然弹出 Access Denied 怎么清理？"
+      ],
+      "searchIntent": "Informational",
+      "audience": "日常高频使用 ChatGPT 网页端及桌面 App 的用户",
+      "contentType": "AI 平台专题",
+      "parentTopic": "/ai/",
+      "parentCluster": "/recommend/ai-tools/",
+      "targetUrl": "/ai/chatgpt-guide/",
+      "articleTitle": "ChatGPT 网络使用指南（2026）：香港限制、App 与网页端差异及节点环境配置",
+      "relatedArticles": [
+        "/ai/chatgpt-login-environment/",
+        "/guides/tun-and-dns/",
+        "/troubleshooting/chatgpt-network-error/",
+        "/recommend/ai-tools/"
+      ],
+      "relatedBrands": [
+        "guangsu",
+        "sujie"
+      ],
+      "conversionIntent": "low",
+      "contentPriority": "P0",
+      "contentStatus": "upgraded",
+      "sourceRequirements": "data/ai-services.json、2026-08-19 光速云实测截图证据",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "NET-L3-01",
+      "keyword": "电信163 联通4837 移动CMI 选机场节点实操",
+      "primaryKeyword": "三网宽带晚高峰选节点实操指南",
+      "secondaryKeywords": [
+        "延迟低为什么下载速度慢",
+        "移动宽带用什么节点快",
+        "北方联通看 4K 卡顿排查"
+      ],
+      "longTailQuestions": [
+        "为什么我的香港专线 TLS RTT 才 65ms 但打网页卡 1200ms？",
+        "电信、移动、联通在亚太主干路由上各有什么特点？"
+      ],
+      "searchIntent": "Informational",
+      "audience": "发现相同机场在不同人手里速度差异巨大的国内三网用户",
+      "contentType": "网络技术指南",
+      "parentTopic": "/network/",
+      "parentCluster": "/network/bgp-transit-vs-direct/",
+      "targetUrl": "/network/three-isp-routing/",
+      "articleTitle": "电信 163、联通 4837 与移动 CMI 晚高峰选机场节点实操：从三网实测差异看延迟与带宽",
+      "relatedArticles": [
+        "/network/iepl-vs-iplc/",
+        "/network/regions-and-metrics/",
+        "/troubleshooting/peak-hour-congestion/",
+        "/reviews/guangsu/"
+      ],
+      "relatedBrands": [
+        "guangsu"
+      ],
+      "conversionIntent": "low",
+      "contentPriority": "P0",
+      "contentStatus": "new_published",
+      "sourceRequirements": "2026-08-19 长沙电信/广西移动/河北联通 3 组真实对比截图",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "TRS-L3-01",
+      "keyword": "所有机场节点突然超时 Timeout 怎么办",
+      "primaryKeyword": "节点全部超时逐层排查手册",
+      "secondaryKeywords": [
+        "节点全红无响应",
+        "系统时间误差导致 VLESS 超时",
+        "区分本地断网还是机场跑路"
+      ],
+      "longTailQuestions": [
+        "昨天还好好的，今天所有节点突然全部 Timeout 怎么一步步定位？",
+        "电脑时间差几分钟为什么会让 VLESS/Trojan 连不上？"
+      ],
+      "searchIntent": "Troubleshooting",
+      "audience": "全部节点突然同时失效、急于判断是本地配置问题还是机场跑路的用户",
+      "contentType": "故障排查手册",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/all-nodes-timeout/",
+      "articleTitle": "所有机场节点突然超时（Timeout）怎么办？7 步区分本地网络故障与服务端停运",
+      "relatedArticles": [
+        "/troubleshooting/subscription-update-failed/",
+        "/troubleshooting/connected-no-internet/",
+        "/risk/alternatives/",
+        "/risk/avoid-pitfalls/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "none",
+      "contentPriority": "P0",
+      "contentStatus": "upgraded",
+      "sourceRequirements": "TLS/VLESS/Trojan 协议时间窗口机制与客户端实操",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "TRS-L3-02",
+      "keyword": "机场订阅链接更新失败 返回200内容为空怎么办",
+      "primaryKeyword": "机场订阅更新失败与空内容排查",
+      "secondaryKeywords": [
+        "Clash 更新订阅报错 403/404",
+        "订阅返回 200 但没节点",
+        "UA 请求头被防火墙拦截"
+      ],
+      "longTailQuestions": [
+        "浏览器能打开机场官网，为什么 Clash 点更新订阅一直转圈失败？",
+        "订阅显示成功更新但节点列表只有 0 个怎么办？"
+      ],
+      "searchIntent": "Troubleshooting",
+      "audience": "无法拉取或更新订阅列表的桌面/移动端客户端用户",
+      "contentType": "故障排查手册",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/subscription-update-failed/",
+      "articleTitle": "订阅更新失败或返回 200 内容为空怎么办？域名被墙、UA 标识与格式错误排查",
+      "relatedArticles": [
+        "/troubleshooting/all-nodes-timeout/",
+        "/guides/subscription-setup/",
+        "/risk/subscription-converter-risk/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "none",
+      "contentPriority": "P0",
+      "contentStatus": "upgraded",
+      "sourceRequirements": "客户端订阅拉取 HTTP 诊断机制",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "RSK-L3-01",
+      "keyword": "机场订阅链接泄露 在线转换站安全风险",
+      "primaryKeyword": "订阅链接安全与在线转换风险防范",
+      "secondaryKeywords": [
+        "在线订阅转换安全吗",
+        "机场订阅 Token 被盗表现",
+        "如何重置机场订阅链接"
+      ],
+      "longTailQuestions": [
+        "把订阅发到第三方免费在线转换网站会被盗刷流量吗？",
+        "发现账号莫名超设备或流量暴跌怎么办？"
+      ],
+      "searchIntent": "Informational",
+      "audience": "使用在线工具进行订阅转换、或怀疑自己订阅 Token 被盗刷的用户",
+      "contentType": "风险与安全指南",
+      "parentTopic": "/risk/",
+      "parentCluster": "/risk/account-and-refund/",
+      "targetUrl": "/risk/subscription-converter-risk/",
+      "articleTitle": "为什么切勿把机场订阅传到陌生在线转换站？订阅 Token 泄露自查与止损步骤",
+      "relatedArticles": [
+        "/risk/account-and-refund/",
+        "/guides/subscription-setup/",
+        "/guides/clash-mihomo-guide/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "none",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "V2Board/Subconverter 常见凭证安全机制",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REC-BL-05",
+      "keyword": "如何判断机场节点真实地区（原生 vs 广播）",
+      "primaryKeyword": "节点地区真实性判断",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "三级专题文章",
+      "parentTopic": "/recommend/",
+      "parentCluster": "/recommend/streaming/",
+      "targetUrl": "/recommend/node-region-check/",
+      "articleTitle": "如何判断机场节点真实地区（原生 vs 广播）",
+      "relatedArticles": [
+        "/recommend/streaming/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "完整实操与品牌数据源核查",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "REC-BL-06",
+      "keyword": "同价位两个机场应该优先比较哪些条件",
+      "primaryKeyword": "同价位机场横向对比方法",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Comparison",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "长尾选题待办",
+      "parentTopic": "/recommend/",
+      "parentCluster": "/recommend/stable/",
+      "targetUrl": "/recommend/same-price-comparison/",
+      "articleTitle": "同价位两个机场应该优先比较哪些条件（待排期）",
+      "relatedArticles": [
+        "/recommend/stable/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "backlog_planned",
+      "sourceRequirements": "待补齐对应实操截图或品牌一手核对后发布",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "PRI-BL-04",
+      "keyword": "300GB 和 500GB 套餐差价与适用家庭人数计算",
+      "primaryKeyword": "300GB vs 500GB 套餐怎么选",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Commercial Investigation",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "三级专题文章",
+      "parentTopic": "/pricing/",
+      "parentCluster": "/pricing/rules/",
+      "targetUrl": "/pricing/300gb-vs-500gb/",
+      "articleTitle": "300GB 和 500GB 套餐差价与适用家庭人数计算",
+      "relatedArticles": [
+        "/pricing/rules/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "完整实操与品牌数据源核查",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "PRI-BL-05",
+      "keyword": "不限时流量包和低价月付包哪个更适合当备用",
+      "primaryKeyword": "不限时备用 vs 低价月付对比",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Comparison",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "长尾选题待办",
+      "parentTopic": "/pricing/",
+      "parentCluster": "/pricing/pay-as-you-go/",
+      "targetUrl": "/pricing/payg-vs-cheap-monthly/",
+      "articleTitle": "不限时流量包和低价月付包哪个更适合当备用（待排期）",
+      "relatedArticles": [
+        "/pricing/pay-as-you-go/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "backlog_planned",
+      "sourceRequirements": "待补齐对应实操截图或品牌一手核对后发布",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "BRN-BL-01",
+      "keyword": "品牌临时维护与停运跑路怎么区分",
+      "primaryKeyword": "机场维护与跑路特征判断",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "三级专题文章",
+      "parentTopic": "/brands/",
+      "parentCluster": "/risk/avoid-pitfalls/",
+      "targetUrl": "/risk/maintenance-vs-shutdown/",
+      "articleTitle": "品牌临时维护与停运跑路怎么区分",
+      "relatedArticles": [
+        "/risk/avoid-pitfalls/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "完整实操与品牌数据源核查",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "VPN-BL-01",
+      "keyword": "VPN 和代理客户端能不能同时开启运行",
+      "primaryKeyword": "VPN 与代理客户端冲突排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "三级专题文章",
+      "parentTopic": "/vpn/",
+      "parentCluster": "/vpn/vpn-vs-proxy/",
+      "targetUrl": "/vpn/dual-tunnel-conflict/",
+      "articleTitle": "VPN 和代理客户端能不能同时开启运行",
+      "relatedArticles": [
+        "/vpn/vpn-vs-proxy/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "完整实操与品牌数据源核查",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "VPN-BL-02",
+      "keyword": "手机 VPN 后台频繁自动断开怎么解决",
+      "primaryKeyword": "手机代理后台断流优化",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "长尾选题待办",
+      "parentTopic": "/vpn/",
+      "parentCluster": "/vpn/platforms/",
+      "targetUrl": "/vpn/mobile-background-disconnect/",
+      "articleTitle": "手机 VPN 后台频繁自动断开怎么解决（待排期）",
+      "relatedArticles": [
+        "/vpn/platforms/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "backlog_planned",
+      "sourceRequirements": "待补齐对应实操截图或品牌一手核对后发布",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "CLI-BL-01",
+      "keyword": "v2rayN 如何从 v6 升级并开启 sing-box 内核",
+      "primaryKeyword": "v2rayN 内核切换教程",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "How-to",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "长尾选题待办",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/windows/",
+      "targetUrl": "/guides/v2rayn-singbox-upgrade/",
+      "articleTitle": "v2rayN 如何从 v6 升级并开启 sing-box 内核（待排期）",
+      "relatedArticles": [
+        "/clients/windows/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "backlog_planned",
+      "sourceRequirements": "待补齐对应实操截图或品牌一手核对后发布",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "CLI-BL-02",
+      "keyword": "OpenWrt 24.10 安装 Nikki 透明代理与 fw4 依赖",
+      "primaryKeyword": "OpenWrt Nikki 配置教程",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "How-to",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "三级专题文章",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/openwrt/",
+      "targetUrl": "/guides/openwrt-nikki-setup/",
+      "articleTitle": "OpenWrt 24.10 安装 Nikki 透明代理与 fw4 依赖",
+      "relatedArticles": [
+        "/clients/openwrt/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "完整实操与品牌数据源核查",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "CLI-BL-03",
+      "keyword": "FlClash 与 Clash Verge Rev 桌面端核心差异",
+      "primaryKeyword": "FlClash vs Clash Verge 对比",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Comparison",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "三级专题文章",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/windows/",
+      "targetUrl": "/compare/flclash-vs-clash-verge/",
+      "articleTitle": "FlClash 与 Clash Verge Rev 桌面端核心差异",
+      "relatedArticles": [
+        "/clients/windows/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "完整实操与品牌数据源核查",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "NET-BL-02",
+      "keyword": "如何识别未经验证的假专线（公网中转冒充 IEPL）",
+      "primaryKeyword": "假 IEPL 专线辨别方法",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "三级专题文章",
+      "parentTopic": "/network/",
+      "parentCluster": "/network/iepl-vs-iplc/",
+      "targetUrl": "/network/verify-iepl-claims/",
+      "articleTitle": "如何识别未经验证的假专线（公网中转冒充 IEPL）",
+      "relatedArticles": [
+        "/network/iepl-vs-iplc/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "完整实操与品牌数据源核查",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "NET-BL-03",
+      "keyword": "节点丢包率与抖动 Jitter 对 4K 缓冲的真实影响",
+      "primaryKeyword": "丢包率与抖动测速解读",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "长尾选题待办",
+      "parentTopic": "/network/",
+      "parentCluster": "/network/regions-and-metrics/",
+      "targetUrl": "/network/packet-loss-and-jitter/",
+      "articleTitle": "节点丢包率与抖动 Jitter 对 4K 缓冲的真实影响（待排期）",
+      "relatedArticles": [
+        "/network/regions-and-metrics/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P2",
+      "contentStatus": "backlog_planned",
+      "sourceRequirements": "待补齐对应实操截图或品牌一手核对后发布",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "TRS-BL-03",
+      "keyword": "Wi-Fi 连不上节点但 5G 流量可以连接的原因排查",
+      "primaryKeyword": "WiFi 与移动网络代理差异排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "三级专题文章",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/wifi-vs-cellular/",
+      "articleTitle": "Wi-Fi 连不上节点但 5G 流量可以连接的原因排查",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "new_published",
+      "sourceRequirements": "完整实操与品牌数据源核查",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "TRS-BL-04",
+      "keyword": "电脑正常但手机无法访问外网的订阅与时间检查",
+      "primaryKeyword": "电脑正常手机不能用排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "长尾选题待办",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/pc-works-phone-fails/",
+      "articleTitle": "电脑正常但手机无法访问外网的订阅与时间检查（待排期）",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "backlog_planned",
+      "sourceRequirements": "待补齐对应实操截图或品牌一手核对后发布",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "RSK-BL-02",
+      "keyword": "机场不退款时如何留存付款凭证与应对损失",
+      "primaryKeyword": "机场拒退纠纷与止损建议",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "泛网络用户与特定场景搜索者",
+      "contentType": "长尾选题待办",
+      "parentTopic": "/risk/",
+      "parentCluster": "/risk/account-and-refund/",
+      "targetUrl": "/risk/refund-dispute-evidence/",
+      "articleTitle": "机场不退款时如何留存付款凭证与应对损失（待排期）",
+      "relatedArticles": [
+        "/risk/account-and-refund/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P2",
+      "contentStatus": "backlog_planned",
+      "sourceRequirements": "待补齐对应实操截图或品牌一手核对后发布",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-AI-IPV6-DNS",
+      "keyword": "IPv6 与 DNS 解析如何导致 AI 工具和流媒体误判地区？",
+      "primaryKeyword": "IPv6 与 DNS 解析如何导致 AI 工具和流媒体误判地区？",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/ai-ipv6-dns/",
+      "articleTitle": "IPv6 与 DNS 解析如何导致 AI 工具和流媒体误判地区？",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-AI-NETWORK-ENVIRONMENT",
+      "keyword": "AI 工具网络环境全景解析",
+      "primaryKeyword": "AI 工具网络环境全景解析",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/ai-network-environment/",
+      "articleTitle": "AI 工具网络环境全景解析：原生 IP、机房 IP、ASN 与 HTTPS 稳定性",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-APPLE-TV-TWITCH-GUIDE",
+      "keyword": "Apple TV+ 与 Twitch 使用指南",
+      "primaryKeyword": "Apple TV+ 与 Twitch 使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/apple-tv-twitch-guide/",
+      "articleTitle": "Apple TV+ 与 Twitch 使用指南：Apple ID 归属与直播低延迟连接",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-CHATGPT-LOGIN-ENVIRONMENT",
+      "keyword": "ChatGPT 登录验证异常与风控环境排查（Cloudflare 1020 / 循环验证）",
+      "primaryKeyword": "ChatGPT 登录验证异常与风控环境排查（Cloudflare 1020 / 循环验证）",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/chatgpt-login-environment/",
+      "articleTitle": "ChatGPT 登录验证异常与风控环境排查（Cloudflare 1020 / 循环验证）",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-CLAUDE-GUIDE",
+      "keyword": "Claude 访问指南与防封号环境配置（2026）",
+      "primaryKeyword": "Claude 访问指南与防封号环境配置（2026）",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/claude-guide/",
+      "articleTitle": "Claude 访问指南与防封号环境配置（2026）：固定节点策略、地区与风控排查",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-DISNEY-PLUS-GUIDE",
+      "keyword": "Disney+ 使用指南",
+      "primaryKeyword": "Disney+ 使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/disney-plus-guide/",
+      "articleTitle": "Disney+ 使用指南：地区可用性、账号版本差异与设备兼容性",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-GEMINI-GUIDE",
+      "keyword": "Gemini 使用指南与地区识别机制（2026）",
+      "primaryKeyword": "Gemini 使用指南与地区识别机制（2026）",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/gemini-guide/",
+      "articleTitle": "Gemini 使用指南与地区识别机制（2026）：破解 Something went wrong 与新加坡/马来西亚实测经验",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-HBO-MAX-GUIDE",
+      "keyword": "Max (原 HBO Max) 使用指南",
+      "primaryKeyword": "Max (原 HBO Max) 使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/hbo-max-guide/",
+      "articleTitle": "Max (原 HBO Max) 使用指南：可用地区覆盖与原生 IP 要求",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-HULU-GUIDE",
+      "keyword": "Hulu 使用指南",
+      "primaryKeyword": "Hulu 使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/hulu-guide/",
+      "articleTitle": "Hulu 使用指南：美国与日本独立区域及住宅 IP 严格风控解析",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-NETFLIX-4K-GUIDE",
+      "keyword": "Netflix 4K 播放完整要求（2026）",
+      "primaryKeyword": "Netflix 4K 播放完整要求（2026）",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/netflix-4k-guide/",
+      "articleTitle": "Netflix 4K 播放完整要求（2026）：Widevine L1、HDCP 2.2、浏览器与网络带宽门槛",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-NETFLIX-REGIONS-ACCOUNT",
+      "keyword": "Netflix 地区内容差异与账号家庭同户规则说明",
+      "primaryKeyword": "Netflix 地区内容差异与账号家庭同户规则说明",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/netflix-regions-account/",
+      "articleTitle": "Netflix 地区内容差异与账号家庭同户规则说明",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-PRIME-VIDEO-GUIDE",
+      "keyword": "Amazon Prime Video 使用指南",
+      "primaryKeyword": "Amazon Prime Video 使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/prime-video-guide/",
+      "articleTitle": "Amazon Prime Video 使用指南：账号站点与区域版权限制解析",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-SPOTIFY-GUIDE",
+      "keyword": "Spotify 使用指南",
+      "primaryKeyword": "Spotify 使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/spotify-guide/",
+      "articleTitle": "Spotify 使用指南：免费版 14 天海外校验与跨区会员注意事项",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-TIKTOK-GUIDE",
+      "keyword": "TikTok 网络与环境隔离指南",
+      "primaryKeyword": "TikTok 网络与环境隔离指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/tiktok-guide/",
+      "articleTitle": "TikTok 网络与环境隔离指南：IP 地区、SIM 卡检测与直播带宽",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-YOUTUBE-CDN-DNS",
+      "keyword": "YouTube CDN 调度、DNS 解析与“送中 IP”完整原理解析",
+      "primaryKeyword": "YouTube CDN 调度、DNS 解析与“送中 IP”完整原理解析",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/youtube-cdn-dns/",
+      "articleTitle": "YouTube CDN 调度、DNS 解析与“送中 IP”完整原理解析",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-AI-YOUTUBE-GUIDE",
+      "keyword": "YouTube 使用与加速指南（2026）",
+      "primaryKeyword": "YouTube 使用与加速指南（2026）",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/ai/",
+      "parentCluster": "/ai/",
+      "targetUrl": "/ai/youtube-guide/",
+      "articleTitle": "YouTube 使用与加速指南（2026）：4K/8K 缓冲原理、送中原因与 Premium 地区限制",
+      "relatedArticles": [
+        "/ai/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-GUIDES-MULTI-DEVICE-ROUTER",
+      "keyword": "多设备协同与 OpenWrt 软路由配置思路（Apple TV / 电视端看 4K）",
+      "primaryKeyword": "多设备协同与 OpenWrt 软路由配置思路（Apple TV / 电视端看 4K）",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "How-to",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/guides/",
+      "parentCluster": "/guides/",
+      "targetUrl": "/guides/multi-device-router/",
+      "articleTitle": "多设备协同与 OpenWrt 软路由配置思路（Apple TV / 电视端看 4K）",
+      "relatedArticles": [
+        "/guides/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-GUIDES-STREAMING-OPTIMIZATION",
+      "keyword": "网络检测自检方法与流媒体 4K 画质缓冲优化指南",
+      "primaryKeyword": "网络检测自检方法与流媒体 4K 画质缓冲优化指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "How-to",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/guides/",
+      "parentCluster": "/guides/",
+      "targetUrl": "/guides/streaming-optimization/",
+      "articleTitle": "网络检测自检方法与流媒体 4K 画质缓冲优化指南",
+      "relatedArticles": [
+        "/guides/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-GUIDES-V2RAYN-SINGBOX-GUIDE",
+      "keyword": "v2rayN 与 sing-box 客户端使用教程",
+      "primaryKeyword": "v2rayN 与 sing-box 客户端使用教程",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "How-to",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/guides/",
+      "parentCluster": "/guides/",
+      "targetUrl": "/guides/v2rayn-singbox-guide/",
+      "articleTitle": "v2rayN 与 sing-box 客户端使用教程：多核心切换与路由规则",
+      "relatedArticles": [
+        "/guides/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-CHATGPT-NETWORK-ERROR",
+      "keyword": "ChatGPT 网络错误、页面打不开与连接异常完整排查指南",
+      "primaryKeyword": "ChatGPT 网络错误、页面打不开与连接异常完整排查指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/chatgpt-network-error/",
+      "articleTitle": "ChatGPT 网络错误、页面打不开与连接异常完整排查指南",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-CHATGPT-SOMETHING-WENT-WRONG",
+      "keyword": "ChatGPT 提示 Something went wrong 与登录验证异常解决步骤",
+      "primaryKeyword": "ChatGPT 提示 Something went wrong 与登录验证异常解决步骤",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/chatgpt-something-went-wrong/",
+      "articleTitle": "ChatGPT 提示 Something went wrong 与登录验证异常解决步骤",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-CLAUDE-ACCESS-ERROR",
+      "keyword": "Claude 无法访问与登录异常排查手册（2026）",
+      "primaryKeyword": "Claude 无法访问与登录异常排查手册（2026）",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/claude-access-error/",
+      "articleTitle": "Claude 无法访问与登录异常排查手册（2026）：区分地区屏蔽、Cloudflare 循环与账号风控",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-CLIENT-UPDATE-CRASH",
+      "keyword": "客户端无法启动、闪退与版本更新后故障修复指南",
+      "primaryKeyword": "客户端无法启动、闪退与版本更新后故障修复指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/client-update-crash/",
+      "articleTitle": "客户端无法启动、闪退与版本更新后故障修复指南",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-CONNECTED-NO-INTERNET",
+      "keyword": "客户端显示已连接但无法访问外网（或全电脑断网）排查",
+      "primaryKeyword": "客户端显示已连接但无法访问外网（或全电脑断网）排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/connected-no-internet/",
+      "articleTitle": "客户端显示已连接但无法访问外网（或全电脑断网）排查",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-DISCONNECT-AND-QUOTA",
+      "keyword": "频繁掉线、流量异常耗尽与账号套餐状态异常排查",
+      "primaryKeyword": "频繁掉线、流量异常耗尽与账号套餐状态异常排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/disconnect-and-quota/",
+      "articleTitle": "频繁掉线、流量异常耗尽与账号套餐状态异常排查",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-DISNEY-PLUS-ERROR",
+      "keyword": "Disney+ 连接失败与 Error 83 / Error 73 错误代码解决方法",
+      "primaryKeyword": "Disney+ 连接失败与 Error 83 / Error 73 错误代码解决方法",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/disney-plus-error/",
+      "articleTitle": "Disney+ 连接失败与 Error 83 / Error 73 错误代码解决方法",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-DNS-RESOLUTION-ERROR",
+      "keyword": "DNS 解析错误排查",
+      "primaryKeyword": "DNS 解析错误排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/dns-resolution-error/",
+      "articleTitle": "DNS 解析错误排查：网页打不开、域名解析超时与 Fake-IP 冲突",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-GEMINI-ERROR",
+      "keyword": "Gemini 报错 Something went wrong 与地区不可用排查指南（2026）",
+      "primaryKeyword": "Gemini 报错 Something went wrong 与地区不可用排查指南（2026）",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/gemini-error/",
+      "articleTitle": "Gemini 报错 Something went wrong 与地区不可用排查指南（2026）",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-IPV6-LEAK-ERROR",
+      "keyword": "IPv6 网络泄漏导致 ChatGPT/Netflix/Gemini 解锁失败排查与关闭教程",
+      "primaryKeyword": "IPv6 网络泄漏导致 ChatGPT/Netflix/Gemini 解锁失败排查与关闭教程",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/ipv6-leak-error/",
+      "articleTitle": "IPv6 网络泄漏导致 ChatGPT/Netflix/Gemini 解锁失败排查与关闭教程",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-NETFLIX-NETWORK-ERROR",
+      "keyword": "Netflix M7111-5059 代理报错与“只显示自制剧”全面排查步骤",
+      "primaryKeyword": "Netflix M7111-5059 代理报错与“只显示自制剧”全面排查步骤",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/netflix-network-error/",
+      "articleTitle": "Netflix M7111-5059 代理报错与“只显示自制剧”全面排查步骤",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-NETFLIX-PLAYBACK-ERROR",
+      "keyword": "Netflix 无法播放",
+      "primaryKeyword": "Netflix 无法播放",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/netflix-playback-error/",
+      "articleTitle": "Netflix 无法播放：黑屏、加载转圈与设备 DRM 报错排查指南",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-PARTIAL-NODES-TIMEOUT",
+      "keyword": "部分节点超时但其他地区可用排查",
+      "primaryKeyword": "部分节点超时但其他地区可用排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/partial-nodes-timeout/",
+      "articleTitle": "部分节点超时但其他地区可用排查：单节点维护与运营商路由差异",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-PEAK-HOUR-CONGESTION",
+      "keyword": "晚高峰卡顿、延迟过高与网页加载慢优化指南",
+      "primaryKeyword": "晚高峰卡顿、延迟过高与网页加载慢优化指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/peak-hour-congestion/",
+      "articleTitle": "晚高峰卡顿、延迟过高与网页加载慢优化指南",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-SPOTIFY-CONNECTION",
+      "keyword": "Spotify 无法连接、离线报错与 14 天海外地区限制排查",
+      "primaryKeyword": "Spotify 无法连接、离线报错与 14 天海外地区限制排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/spotify-connection/",
+      "articleTitle": "Spotify 无法连接、离线报错与 14 天海外地区限制排查",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-TUN-MODE-ERROR",
+      "keyword": "TUN 模式异常、无法开启或开机自启失效排查指南",
+      "primaryKeyword": "TUN 模式异常、无法开启或开机自启失效排查指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/tun-mode-error/",
+      "articleTitle": "TUN 模式异常、无法开启或开机自启失效排查指南",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-YOUTUBE-BUFFERING",
+      "keyword": "YouTube 一直转圈与播放卡顿排查",
+      "primaryKeyword": "YouTube 一直转圈与播放卡顿排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/youtube-buffering/",
+      "articleTitle": "YouTube 一直转圈与播放卡顿排查：CDN、QUIC 与晚高峰优化",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-TROUBLESHOOTING-YOUTUBE-LOAD-ERROR",
+      "keyword": "YouTube 无法加载页面与播放错误（An error occurred）排查",
+      "primaryKeyword": "YouTube 无法加载页面与播放错误（An error occurred）排查",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Troubleshooting",
+      "audience": "精准专题搜索用户",
+      "contentType": "三级专题页",
+      "parentTopic": "/troubleshooting/",
+      "parentCluster": "/troubleshooting/",
+      "targetUrl": "/troubleshooting/youtube-load-error/",
+      "articleTitle": "YouTube 无法加载页面与播放错误（An error occurred）排查",
+      "relatedArticles": [
+        "/troubleshooting/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-CLASH-META-FOR-ANDROID",
+      "keyword": "Clash Meta for Android 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Clash Meta for Android 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/clash-meta-for-android/",
+      "articleTitle": "Clash Meta for Android 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-CLASH-MI",
+      "keyword": "Clash Mi 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Clash Mi 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/clash-mi/",
+      "articleTitle": "Clash Mi 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-CLASH-NYANPASU",
+      "keyword": "Clash Nyanpasu 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Clash Nyanpasu 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/clash-nyanpasu/",
+      "articleTitle": "Clash Nyanpasu 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-CLASH-VERGE-REV",
+      "keyword": "Clash Verge Rev 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Clash Verge Rev 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/clash-verge-rev/",
+      "articleTitle": "Clash Verge Rev 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-FLCLASH",
+      "keyword": "FlClash 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "FlClash 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/flclash/",
+      "articleTitle": "FlClash 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-HIDDIFY",
+      "keyword": "Hiddify 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Hiddify 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/hiddify/",
+      "articleTitle": "Hiddify 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-HOMEPROXY",
+      "keyword": "HomeProxy 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "HomeProxy 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/homeproxy/",
+      "articleTitle": "HomeProxy 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-KARING",
+      "keyword": "Karing 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Karing 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/karing/",
+      "articleTitle": "Karing 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-MIHOMO-PARTY",
+      "keyword": "Mihomo Party 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Mihomo Party 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/mihomo-party/",
+      "articleTitle": "Mihomo Party 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-NEKOBOX",
+      "keyword": "NekoBox for Android 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "NekoBox for Android 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/nekobox/",
+      "articleTitle": "NekoBox for Android 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-NIKKI",
+      "keyword": "Nikki 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Nikki 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/nikki/",
+      "articleTitle": "Nikki 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-ONECLICK",
+      "keyword": "OneClick 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "OneClick 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/oneclick/",
+      "articleTitle": "OneClick 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-OPENCLASH",
+      "keyword": "OpenClash 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "OpenClash 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/openclash/",
+      "articleTitle": "OpenClash 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-PASSWALL2",
+      "keyword": "PassWall2 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "PassWall2 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/passwall2/",
+      "articleTitle": "PassWall2 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-POTATSO",
+      "keyword": "Potatso 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Potatso 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/potatso/",
+      "articleTitle": "Potatso 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-QUANTUMULT-X",
+      "keyword": "Quantumult X（圈 X） 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Quantumult X（圈 X） 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/quantumult-x/",
+      "articleTitle": "Quantumult X（圈 X） 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-SHADOWROCKET",
+      "keyword": "Shadowrocket（小火箭） 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Shadowrocket（小火箭） 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/shadowrocket/",
+      "articleTitle": "Shadowrocket（小火箭） 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-SING-BOX",
+      "keyword": "sing-box 官方客户端 (SFA / SFI / SFM) 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "sing-box 官方客户端 (SFA / SFI / SFM) 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/sing-box/",
+      "articleTitle": "sing-box 官方客户端 (SFA / SFI / SFM) 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-STASH",
+      "keyword": "Stash 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Stash 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/stash/",
+      "articleTitle": "Stash 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-STREISAND",
+      "keyword": "Streisand 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Streisand 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/streisand/",
+      "articleTitle": "Streisand 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-SURGE",
+      "keyword": "Surge（Surge 5 / Surge Mac） 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "Surge（Surge 5 / Surge Mac） 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/surge/",
+      "articleTitle": "Surge（Surge 5 / Surge Mac） 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-V2RAYA",
+      "keyword": "v2rayA 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "v2rayA 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/v2raya/",
+      "articleTitle": "v2rayA 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-V2RAYN",
+      "keyword": "v2rayN 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "v2rayN 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/v2rayn/",
+      "articleTitle": "v2rayN 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    },
+    {
+      "id": "EXT-CLIENTS-V2RAYNG",
+      "keyword": "v2rayNG 下载渠道、支持协议与配置使用指南",
+      "primaryKeyword": "v2rayNG 下载渠道、支持协议与配置使用指南",
+      "secondaryKeywords": [],
+      "longTailQuestions": [],
+      "searchIntent": "Informational",
+      "audience": "精准专题搜索用户",
+      "contentType": "客户端百科",
+      "parentTopic": "/clients/",
+      "parentCluster": "/clients/",
+      "targetUrl": "/clients/v2rayng/",
+      "articleTitle": "v2rayNG 下载渠道、支持协议与配置使用指南",
+      "relatedArticles": [
+        "/clients/"
+      ],
+      "relatedBrands": [],
+      "conversionIntent": "low",
+      "contentPriority": "P1",
+      "contentStatus": "published",
+      "sourceRequirements": "已有结构化数据与官方文档",
+      "lastReviewedAt": "2026-11-27"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "liumeitizhinan-biz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "流媒体指南 (liumeitizhinan.biz) - 流媒体服务指南、AI 网络知识库、客户端配置教程与机场品牌数据库",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "node scripts/prebuild.mjs && vitepress build docs && node scripts/postbuild.mjs",
+    "preview": "vitepress preview docs",
+    "audit:all": "node scripts/audit-brands.mjs && node scripts/audit-conflicts.mjs && node scripts/audit-affiliate-links.mjs && node scripts/audit-seo.mjs && node scripts/audit-internal-links.mjs && node scripts/audit-images.mjs && node scripts/audit-content-quality.mjs",
+    "keywords:pipeline": "node scripts/import-keywords.mjs && node scripts/cluster-keywords.mjs && node scripts/map-keywords.mjs && node scripts/generate-report.mjs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

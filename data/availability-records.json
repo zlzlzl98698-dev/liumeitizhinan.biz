@@ -1,0 +1,2976 @@
+{
+  "updatedAt": "2026-11-27",
+  "totalRecords": 297,
+  "records": [
+    {
+      "brandSlug": "guangsu",
+      "brandName": "光速云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "measured (2026-08-19 MiaoKo)",
+      "testDate": "2026-08-19",
+      "note": "2026-08-19 实测：日/新/美/英/法/德等节点解锁，香港专线仅 APP 可用"
+    },
+    {
+      "brandSlug": "guangsu",
+      "brandName": "光速云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "vendor / supplied",
+      "testDate": null,
+      "note": "品牌清单资料标注支持，尚缺 2026-08-19 同批次截图实测"
+    },
+    {
+      "brandSlug": "guangsu",
+      "brandName": "光速云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "measured (2026-08-19 MiaoKo)",
+      "testDate": "2026-08-19",
+      "note": "2026-08-19 实测：新加坡/马来西亚/土耳其解锁，日本/美国/香港/台湾节点多失败"
+    },
+    {
+      "brandSlug": "guangsu",
+      "brandName": "光速云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Available",
+      "sourceType": "measured (2026-08-19 MiaoKo)",
+      "testDate": "2026-08-19",
+      "note": "2026-08-19 实测：香港/日本/新加坡/台湾/美国/欧亚节点均有解锁显示"
+    },
+    {
+      "brandSlug": "guangsu",
+      "brandName": "光速云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Partial",
+      "sourceType": "measured (2026-08-19 MiaoKo)",
+      "testDate": "2026-08-19",
+      "note": "2026-08-19 实测：香港/日本/新加坡/美国解锁，台湾节点失败"
+    },
+    {
+      "brandSlug": "guangsu",
+      "brandName": "光速云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Partial",
+      "sourceType": "measured (2026-08-19 MiaoKo)",
+      "testDate": "2026-08-19",
+      "note": "2026-08-19 实测：香港/日本/美国正常解锁；新加坡与台湾节点在珠海联通测试中出现送中(CN)"
+    },
+    {
+      "brandSlug": "guangsu",
+      "brandName": "光速云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "vendor / supplied",
+      "testDate": null,
+      "note": "品牌清单资料标注支持，尚缺 2026-08-19 同批次截图实测"
+    },
+    {
+      "brandSlug": "guangsu",
+      "brandName": "光速云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Available",
+      "sourceType": "measured (2026-08-19 MiaoKo)",
+      "testDate": "2026-08-19",
+      "note": "2026-08-19 实测：日/新/美/台/港部分节点解锁（香港多标注 ALISG），部分节点失败"
+    },
+    {
+      "brandSlug": "guangsu",
+      "brandName": "光速云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "vendor / supplied",
+      "testDate": null,
+      "note": "品牌清单资料标注支持，尚缺 2026-08-19 同批次截图实测"
+    },
+    {
+      "brandSlug": "muguang",
+      "brandName": "暮光加速",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "muguang",
+      "brandName": "暮光加速",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "muguang",
+      "brandName": "暮光加速",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "muguang",
+      "brandName": "暮光加速",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "muguang",
+      "brandName": "暮光加速",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "muguang",
+      "brandName": "暮光加速",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "muguang",
+      "brandName": "暮光加速",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "muguang",
+      "brandName": "暮光加速",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "muguang",
+      "brandName": "暮光加速",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "feimao",
+      "brandName": "飞猫云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "feimao",
+      "brandName": "飞猫云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "feimao",
+      "brandName": "飞猫云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "feimao",
+      "brandName": "飞猫云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "feimao",
+      "brandName": "飞猫云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "feimao",
+      "brandName": "飞猫云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "feimao",
+      "brandName": "飞猫云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "feimao",
+      "brandName": "飞猫云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "feimao",
+      "brandName": "飞猫云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weifeng",
+      "brandName": "微风网络",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weifeng",
+      "brandName": "微风网络",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weifeng",
+      "brandName": "微风网络",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "weifeng",
+      "brandName": "微风网络",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weifeng",
+      "brandName": "微风网络",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weifeng",
+      "brandName": "微风网络",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weifeng",
+      "brandName": "微风网络",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weifeng",
+      "brandName": "微风网络",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weifeng",
+      "brandName": "微风网络",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "dalaoyun",
+      "brandName": "大佬云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "dalaoyun",
+      "brandName": "大佬云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "dalaoyun",
+      "brandName": "大佬云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "dalaoyun",
+      "brandName": "大佬云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "dalaoyun",
+      "brandName": "大佬云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "dalaoyun",
+      "brandName": "大佬云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "dalaoyun",
+      "brandName": "大佬云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "dalaoyun",
+      "brandName": "大佬云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "dalaoyun",
+      "brandName": "大佬云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "xingdaomeng",
+      "brandName": "星岛梦",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xingdaomeng",
+      "brandName": "星岛梦",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xingdaomeng",
+      "brandName": "星岛梦",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "xingdaomeng",
+      "brandName": "星岛梦",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xingdaomeng",
+      "brandName": "星岛梦",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xingdaomeng",
+      "brandName": "星岛梦",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xingdaomeng",
+      "brandName": "星岛梦",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xingdaomeng",
+      "brandName": "星岛梦",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xingdaomeng",
+      "brandName": "星岛梦",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xiaoming",
+      "brandName": "小明Cloud",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "xiaoming",
+      "brandName": "小明Cloud",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xiaoming",
+      "brandName": "小明Cloud",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "xiaoming",
+      "brandName": "小明Cloud",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xiaoming",
+      "brandName": "小明Cloud",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xiaoming",
+      "brandName": "小明Cloud",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xiaoming",
+      "brandName": "小明Cloud",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xiaoming",
+      "brandName": "小明Cloud",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "xiaoming",
+      "brandName": "小明Cloud",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "ermao",
+      "brandName": "二猫云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "ermao",
+      "brandName": "二猫云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "ermao",
+      "brandName": "二猫云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "ermao",
+      "brandName": "二猫云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "ermao",
+      "brandName": "二猫云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "ermao",
+      "brandName": "二猫云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "ermao",
+      "brandName": "二猫云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "ermao",
+      "brandName": "二猫云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "ermao",
+      "brandName": "二猫云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "wuyou",
+      "brandName": "无忧链接",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "wuyou",
+      "brandName": "无忧链接",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "wuyou",
+      "brandName": "无忧链接",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "wuyou",
+      "brandName": "无忧链接",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "wuyou",
+      "brandName": "无忧链接",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "wuyou",
+      "brandName": "无忧链接",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "wuyou",
+      "brandName": "无忧链接",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "wuyou",
+      "brandName": "无忧链接",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "wuyou",
+      "brandName": "无忧链接",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weitu",
+      "brandName": "唯兔云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weitu",
+      "brandName": "唯兔云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weitu",
+      "brandName": "唯兔云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "weitu",
+      "brandName": "唯兔云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weitu",
+      "brandName": "唯兔云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weitu",
+      "brandName": "唯兔云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weitu",
+      "brandName": "唯兔云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weitu",
+      "brandName": "唯兔云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "weitu",
+      "brandName": "唯兔云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "firefly",
+      "brandName": "Firefly",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "firefly",
+      "brandName": "Firefly",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "firefly",
+      "brandName": "Firefly",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "firefly",
+      "brandName": "Firefly",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "firefly",
+      "brandName": "Firefly",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "firefly",
+      "brandName": "Firefly",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "firefly",
+      "brandName": "Firefly",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "firefly",
+      "brandName": "Firefly",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "firefly",
+      "brandName": "Firefly",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yuzhou",
+      "brandName": "宇宙云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yuzhou",
+      "brandName": "宇宙云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yuzhou",
+      "brandName": "宇宙云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yuzhou",
+      "brandName": "宇宙云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yuzhou",
+      "brandName": "宇宙云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yuzhou",
+      "brandName": "宇宙云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yuzhou",
+      "brandName": "宇宙云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yuzhou",
+      "brandName": "宇宙云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yuzhou",
+      "brandName": "宇宙云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "u1s1",
+      "brandName": "U1S1",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "u1s1",
+      "brandName": "U1S1",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "u1s1",
+      "brandName": "U1S1",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "u1s1",
+      "brandName": "U1S1",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "u1s1",
+      "brandName": "U1S1",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "u1s1",
+      "brandName": "U1S1",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "u1s1",
+      "brandName": "U1S1",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "u1s1",
+      "brandName": "U1S1",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "u1s1",
+      "brandName": "U1S1",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "lingmao",
+      "brandName": "灵猫网络",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "lingmao",
+      "brandName": "灵猫网络",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "lingmao",
+      "brandName": "灵猫网络",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "lingmao",
+      "brandName": "灵猫网络",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "lingmao",
+      "brandName": "灵猫网络",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "lingmao",
+      "brandName": "灵猫网络",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "lingmao",
+      "brandName": "灵猫网络",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "lingmao",
+      "brandName": "灵猫网络",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "lingmao",
+      "brandName": "灵猫网络",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "jilian",
+      "brandName": "极连云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "jilian",
+      "brandName": "极连云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "jilian",
+      "brandName": "极连云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "jilian",
+      "brandName": "极连云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "jilian",
+      "brandName": "极连云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "jilian",
+      "brandName": "极连云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "jilian",
+      "brandName": "极连云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "jilian",
+      "brandName": "极连云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "jilian",
+      "brandName": "极连云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "guangnian",
+      "brandName": "光年梯",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "guangnian",
+      "brandName": "光年梯",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "guangnian",
+      "brandName": "光年梯",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "guangnian",
+      "brandName": "光年梯",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "guangnian",
+      "brandName": "光年梯",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "guangnian",
+      "brandName": "光年梯",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "guangnian",
+      "brandName": "光年梯",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "guangnian",
+      "brandName": "光年梯",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "guangnian",
+      "brandName": "光年梯",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yifan",
+      "brandName": "一翻云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yifan",
+      "brandName": "一翻云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yifan",
+      "brandName": "一翻云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "yifan",
+      "brandName": "一翻云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yifan",
+      "brandName": "一翻云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yifan",
+      "brandName": "一翻云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yifan",
+      "brandName": "一翻云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yifan",
+      "brandName": "一翻云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yifan",
+      "brandName": "一翻云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "sogo",
+      "brandName": "SOGO 云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "sogo",
+      "brandName": "SOGO 云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "sogo",
+      "brandName": "SOGO 云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "sogo",
+      "brandName": "SOGO 云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "sogo",
+      "brandName": "SOGO 云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "sogo",
+      "brandName": "SOGO 云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "sogo",
+      "brandName": "SOGO 云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "sogo",
+      "brandName": "SOGO 云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "sogo",
+      "brandName": "SOGO 云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "kexin",
+      "brandName": "可信云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kexin",
+      "brandName": "可信云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kexin",
+      "brandName": "可信云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kexin",
+      "brandName": "可信云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kexin",
+      "brandName": "可信云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kexin",
+      "brandName": "可信云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kexin",
+      "brandName": "可信云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kexin",
+      "brandName": "可信云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kexin",
+      "brandName": "可信云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "sujie",
+      "brandName": "速界",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "sujie",
+      "brandName": "速界",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "sujie",
+      "brandName": "速界",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "sujie",
+      "brandName": "速界",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "sujie",
+      "brandName": "速界",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "sujie",
+      "brandName": "速界",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "sujie",
+      "brandName": "速界",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "sujie",
+      "brandName": "速界",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "sujie",
+      "brandName": "速界",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shanyue",
+      "brandName": "闪跃",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "shanyue",
+      "brandName": "闪跃",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "shanyue",
+      "brandName": "闪跃",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "shanyue",
+      "brandName": "闪跃",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "shanyue",
+      "brandName": "闪跃",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "shanyue",
+      "brandName": "闪跃",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "shanyue",
+      "brandName": "闪跃",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "shanyue",
+      "brandName": "闪跃",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "shanyue",
+      "brandName": "闪跃",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "quanqiu",
+      "brandName": "全球云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "quanqiu",
+      "brandName": "全球云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "quanqiu",
+      "brandName": "全球云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "quanqiu",
+      "brandName": "全球云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "quanqiu",
+      "brandName": "全球云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "quanqiu",
+      "brandName": "全球云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "quanqiu",
+      "brandName": "全球云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "quanqiu",
+      "brandName": "全球云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "quanqiu",
+      "brandName": "全球云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "shandianshu",
+      "brandName": "闪电鼠",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shandianshu",
+      "brandName": "闪电鼠",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shandianshu",
+      "brandName": "闪电鼠",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shandianshu",
+      "brandName": "闪电鼠",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shandianshu",
+      "brandName": "闪电鼠",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shandianshu",
+      "brandName": "闪电鼠",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shandianshu",
+      "brandName": "闪电鼠",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shandianshu",
+      "brandName": "闪电鼠",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shandianshu",
+      "brandName": "闪电鼠",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yunjiexian",
+      "brandName": "云界线",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yunjiexian",
+      "brandName": "云界线",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yunjiexian",
+      "brandName": "云界线",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yunjiexian",
+      "brandName": "云界线",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yunjiexian",
+      "brandName": "云界线",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yunjiexian",
+      "brandName": "云界线",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yunjiexian",
+      "brandName": "云界线",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yunjiexian",
+      "brandName": "云界线",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yunjiexian",
+      "brandName": "云界线",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "liulianyun",
+      "brandName": "榴莲云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "liulianyun",
+      "brandName": "榴莲云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "liulianyun",
+      "brandName": "榴莲云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "liulianyun",
+      "brandName": "榴莲云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "liulianyun",
+      "brandName": "榴莲云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "liulianyun",
+      "brandName": "榴莲云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "liulianyun",
+      "brandName": "榴莲云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "liulianyun",
+      "brandName": "榴莲云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "liulianyun",
+      "brandName": "榴莲云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shenxing",
+      "brandName": "神行加速",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shenxing",
+      "brandName": "神行加速",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shenxing",
+      "brandName": "神行加速",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shenxing",
+      "brandName": "神行加速",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shenxing",
+      "brandName": "神行加速",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shenxing",
+      "brandName": "神行加速",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shenxing",
+      "brandName": "神行加速",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shenxing",
+      "brandName": "神行加速",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "shenxing",
+      "brandName": "神行加速",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "huanqiuti",
+      "brandName": "环球梯",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "huanqiuti",
+      "brandName": "环球梯",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "huanqiuti",
+      "brandName": "环球梯",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "huanqiuti",
+      "brandName": "环球梯",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "huanqiuti",
+      "brandName": "环球梯",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "huanqiuti",
+      "brandName": "环球梯",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "huanqiuti",
+      "brandName": "环球梯",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "huanqiuti",
+      "brandName": "环球梯",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "huanqiuti",
+      "brandName": "环球梯",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "yinxingren",
+      "brandName": "隐形人",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yinxingren",
+      "brandName": "隐形人",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "yinxingren",
+      "brandName": "隐形人",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "yinxingren",
+      "brandName": "隐形人",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yinxingren",
+      "brandName": "隐形人",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yinxingren",
+      "brandName": "隐形人",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yinxingren",
+      "brandName": "隐形人",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "yinxingren",
+      "brandName": "隐形人",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Partial",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注“视节点而定”，需切换指定地区节点"
+    },
+    {
+      "brandSlug": "yinxingren",
+      "brandName": "隐形人",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Vendor Data",
+      "sourceType": "supplied / vendor",
+      "testDate": null,
+      "note": "原文资料标注支持（非本站独立逐项实测，建议结合购买前测试验证）"
+    },
+    {
+      "brandSlug": "tiziyun",
+      "brandName": "梯子云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "tiziyun",
+      "brandName": "梯子云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "tiziyun",
+      "brandName": "梯子云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "tiziyun",
+      "brandName": "梯子云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "tiziyun",
+      "brandName": "梯子云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "tiziyun",
+      "brandName": "梯子云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "tiziyun",
+      "brandName": "梯子云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "tiziyun",
+      "brandName": "梯子云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "tiziyun",
+      "brandName": "梯子云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "lingdong",
+      "brandName": "灵动云",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "lingdong",
+      "brandName": "灵动云",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "lingdong",
+      "brandName": "灵动云",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "lingdong",
+      "brandName": "灵动云",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "lingdong",
+      "brandName": "灵动云",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "lingdong",
+      "brandName": "灵动云",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "lingdong",
+      "brandName": "灵动云",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "lingdong",
+      "brandName": "灵动云",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "lingdong",
+      "brandName": "灵动云",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "langwang",
+      "brandName": "浪网",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "langwang",
+      "brandName": "浪网",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "langwang",
+      "brandName": "浪网",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "langwang",
+      "brandName": "浪网",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "langwang",
+      "brandName": "浪网",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "langwang",
+      "brandName": "浪网",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "langwang",
+      "brandName": "浪网",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "langwang",
+      "brandName": "浪网",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "langwang",
+      "brandName": "浪网",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "edgenova",
+      "brandName": "边缘节点 EdgeNova",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "edgenova",
+      "brandName": "边缘节点 EdgeNova",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "edgenova",
+      "brandName": "边缘节点 EdgeNova",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "edgenova",
+      "brandName": "边缘节点 EdgeNova",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "edgenova",
+      "brandName": "边缘节点 EdgeNova",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "edgenova",
+      "brandName": "边缘节点 EdgeNova",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "edgenova",
+      "brandName": "边缘节点 EdgeNova",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "edgenova",
+      "brandName": "边缘节点 EdgeNova",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "edgenova",
+      "brandName": "边缘节点 EdgeNova",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kuaili",
+      "brandName": "快狸",
+      "platform": "ChatGPT",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kuaili",
+      "brandName": "快狸",
+      "platform": "Claude",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kuaili",
+      "brandName": "快狸",
+      "platform": "Gemini",
+      "category": "AI",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kuaili",
+      "brandName": "快狸",
+      "platform": "Netflix",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kuaili",
+      "brandName": "快狸",
+      "platform": "Disney+",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kuaili",
+      "brandName": "快狸",
+      "platform": "YouTube",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kuaili",
+      "brandName": "快狸",
+      "platform": "HBO Max",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kuaili",
+      "brandName": "快狸",
+      "platform": "TikTok",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    },
+    {
+      "brandSlug": "kuaili",
+      "brandName": "快狸",
+      "platform": "Spotify",
+      "category": "Streaming",
+      "status": "Not Tested",
+      "sourceType": "not_tested",
+      "testDate": null,
+      "note": "尚未在受控环境下完成本站独立逐项解锁实测"
+    }
+  ]
+}

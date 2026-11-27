@@ -1,0 +1,78 @@
+{
+  "updatedAt": "2026-11-27",
+  "services": [
+    {
+      "slug": "netflix",
+      "name": "Netflix",
+      "category": "streaming",
+      "summary": "全球流媒体点播平台，依据访问 IP 地区动态切换片库，且对机房 IP、代理检测与家庭同户规则有严格校验。",
+      "keyFactors": ["IP 类型（住宅/原生 vs 机房）", "地区版权目录差异", "Widevine / HDCP 硬件 DRM 等级", "DNS 解析一致性", "4K HEVC/AV1 带宽要求（官方建议 15–25 Mbps 以上）"],
+      "commonErrors": ["只能看自制剧（仅解锁 Originals）", "提示检测到代理或 VPN（E114 / M7111-5059）", "画质锁定 480p/720p 无法开启 4K", "家庭账号同户验证提示"]
+    },
+    {
+      "slug": "youtube",
+      "name": "YouTube",
+      "category": "streaming",
+      "summary": "全球最大视频平台，主要关注 CDN 调度节点、4K/8K 吞吐速度、送中识别（误判为 CN 地区导致 Premium 后台播放或无广告异常）以及 IPv6 影响。",
+      "keyFactors": ["Google CDN 就近调度", "Google 地区定位（是否“送中”）", "QUIC / HTTP3 与 UDP 丢包", "YouTube Premium 跨区账号规则"],
+      "commonErrors": ["4K 缓冲转圈", "节点送中（显示 CN 或无法使用后台播放/YouTube Music）", "TV 端或浏览器加载缩略图极慢"]
+    },
+    {
+      "slug": "disney-plus",
+      "name": "Disney+",
+      "category": "streaming",
+      "summary": "迪士尼旗下流媒体平台，对代理 IP 与 DNS 泄漏检测较为敏感，且部分地区（如港台、日美、新加坡）片库与入口版本存在差异。",
+      "keyFactors": ["IP 声誉与地区匹配", "WebRTC / DNS 泄漏防护", "应用版本与地区商店匹配"],
+      "commonErrors": ["Error Code 83 设备或网络兼容异常", "Error Code 73 所在地区不可用", "首页无限转圈无法加载片单"]
+    },
+    {
+      "slug": "prime-video",
+      "name": "Prime Video",
+      "category": "streaming",
+      "summary": "Amazon Prime Video，受账号所属亚马逊站点区域与当前出口 IP 共同影响。",
+      "keyFactors": ["账号归属站点（US/JP/UK/Global）", "VPN/代理检测提示", "多端字幕与码率适配"]
+    },
+    {
+      "slug": "hbo-max",
+      "name": "Max (HBO Max)",
+      "category": "streaming",
+      "summary": "Warner Bros. Discovery 旗下流媒体服务，可用地区覆盖美洲、部分欧洲及亚太特定市场，对非支持区 IP 拦截严格。",
+      "keyFactors": ["地区可用性覆盖（美国、新加坡、港台等已上线区域）", "原生 IP 识别", "账号计费地区限制"]
+    },
+    {
+      "slug": "hulu",
+      "name": "Hulu",
+      "category": "streaming",
+      "summary": "主要面向美国与日本（独立运营）的流媒体平台，对非美区机房 IP 封锁极严，常提示 Proxy/VPN 错误。",
+      "keyFactors": ["美国/日本原生住宅 IP", "与 Disney+ 捆绑账号区域规则", "Web 端地理定位校验"]
+    },
+    {
+      "slug": "spotify",
+      "name": "Spotify",
+      "category": "streaming",
+      "summary": "全球音频流媒体服务，免费版每 14 天校验一次 IP 所在国家，付费会员可跨区漫游但需避免频繁切换高风险 IP。",
+      "keyFactors": ["账号注册地区与付款方式", "免费版 14 天海外 IP 校验", "歌词与播客地区版权差异"]
+    },
+    {
+      "slug": "tiktok",
+      "name": "TikTok",
+      "category": "streaming",
+      "summary": "短视频及直播平台，除网络出口 IP 外，还深度检测 SIM 卡地区、系统时区、语言及设备环境。",
+      "keyFactors": ["出口 IP 地区与纯净度", "设备 SIM 卡/MCC 归属地隔离", "直播推流对上行带宽和抖动的要求"]
+    },
+    {
+      "slug": "apple-tv-plus",
+      "name": "Apple TV+",
+      "category": "streaming",
+      "summary": "苹果流媒体服务，内容可用性主要绑定 Apple ID 国家/地区，对节点稳定性与 TLS 连接连续性敏感。",
+      "keyFactors": ["Apple ID 地区归属", "TLS 握手与 CDN 速度", "Dolby Vision / Atmos 设备支持"]
+    },
+    {
+      "slug": "twitch",
+      "name": "Twitch",
+      "category": "streaming",
+      "summary": "实时直播平台，对部分数据中心 IP 会限制登录、发言或触发错误 2000/4000。",
+      "keyFactors": ["直播低延迟传输与 UDP/TCP 稳定性", "特定 IP 段登录拦截", "1080p60 源画质缓冲带宽"]
+    }
+  ]
+}

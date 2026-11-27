@@ -1,0 +1,219 @@
+{
+  "updatedAt": "2026-11-27",
+  "clusters": {
+    "/recommend/": {
+      "parentTopic": "/recommend/",
+      "publishedUrls": [],
+      "upgradedUrls": [],
+      "newUrls": [
+        "/recommend/how-to-choose/",
+        "/recommend/multi-device-guide/",
+        "/compare/guangsu-vs-feimao/",
+        "/recommend/monthly-vs-annual-first-buy/",
+        "/recommend/node-region-check/"
+      ],
+      "backlogUrls": [
+        "/recommend/same-price-comparison/"
+      ]
+    },
+    "/pricing/": {
+      "parentTopic": "/pricing/",
+      "publishedUrls": [],
+      "upgradedUrls": [],
+      "newUrls": [
+        "/pricing/ten-yuan-plans/",
+        "/pricing/traffic-and-multiplier/",
+        "/pricing/one-yuan-airport-limits/",
+        "/pricing/300gb-vs-500gb/"
+      ],
+      "backlogUrls": [
+        "/pricing/payg-vs-cheap-monthly/"
+      ]
+    },
+    "/brands/": {
+      "parentTopic": "/brands/",
+      "publishedUrls": [],
+      "upgradedUrls": [],
+      "newUrls": [
+        "/reviews/guangsu/",
+        "/reviews/feimao/",
+        "/reviews/xingdaomeng/",
+        "/reviews/ermao/",
+        "/reviews/muguang/",
+        "/reviews/weifeng/",
+        "/reviews/xiaoming/",
+        "/reviews/yinxingren/",
+        "/reviews/weitu/",
+        "/reviews/yifan/",
+        "/reviews/sogo/",
+        "/reviews/quanqiu/",
+        "/risk/maintenance-vs-shutdown/"
+      ],
+      "backlogUrls": []
+    },
+    "/compare/": {
+      "parentTopic": "/compare/",
+      "publishedUrls": [],
+      "upgradedUrls": [],
+      "newUrls": [
+        "/compare/guangsu-vs-feimao/",
+        "/compare/guangsu-vs-xingdaomeng/",
+        "/compare/guangsu-vs-ermao/",
+        "/compare/xiaoming-vs-guangsu/",
+        "/compare/tiziyun-vs-yinxingren/",
+        "/compare/weifeng-vs-xingdaomeng/"
+      ],
+      "backlogUrls": []
+    },
+    "/guides/": {
+      "parentTopic": "/guides/",
+      "publishedUrls": [
+        "/guides/multi-device-router/",
+        "/guides/streaming-optimization/",
+        "/guides/v2rayn-singbox-guide/"
+      ],
+      "upgradedUrls": [
+        "/guides/subscription-setup/",
+        "/guides/clash-mihomo-guide/",
+        "/guides/shadowrocket-guide/",
+        "/guides/tun-and-dns/"
+      ],
+      "newUrls": [
+        "/guides/claude-fixed-node-rules/",
+        "/guides/cfw-to-clash-verge/"
+      ],
+      "backlogUrls": []
+    },
+    "/ai/": {
+      "parentTopic": "/ai/",
+      "publishedUrls": [
+        "/ai/ai-ipv6-dns/",
+        "/ai/ai-network-environment/",
+        "/ai/apple-tv-twitch-guide/",
+        "/ai/chatgpt-login-environment/",
+        "/ai/claude-guide/",
+        "/ai/disney-plus-guide/",
+        "/ai/gemini-guide/",
+        "/ai/hbo-max-guide/",
+        "/ai/hulu-guide/",
+        "/ai/netflix-4k-guide/",
+        "/ai/netflix-regions-account/",
+        "/ai/prime-video-guide/",
+        "/ai/spotify-guide/",
+        "/ai/tiktok-guide/",
+        "/ai/youtube-cdn-dns/",
+        "/ai/youtube-guide/"
+      ],
+      "upgradedUrls": [
+        "/ai/netflix-guide/",
+        "/ai/chatgpt-guide/"
+      ],
+      "newUrls": [],
+      "backlogUrls": []
+    },
+    "/network/": {
+      "parentTopic": "/network/",
+      "publishedUrls": [],
+      "upgradedUrls": [],
+      "newUrls": [
+        "/network/three-isp-routing/",
+        "/network/verify-iepl-claims/"
+      ],
+      "backlogUrls": [
+        "/network/packet-loss-and-jitter/"
+      ]
+    },
+    "/troubleshooting/": {
+      "parentTopic": "/troubleshooting/",
+      "publishedUrls": [
+        "/troubleshooting/chatgpt-network-error/",
+        "/troubleshooting/chatgpt-something-went-wrong/",
+        "/troubleshooting/claude-access-error/",
+        "/troubleshooting/client-update-crash/",
+        "/troubleshooting/connected-no-internet/",
+        "/troubleshooting/disconnect-and-quota/",
+        "/troubleshooting/disney-plus-error/",
+        "/troubleshooting/dns-resolution-error/",
+        "/troubleshooting/gemini-error/",
+        "/troubleshooting/ipv6-leak-error/",
+        "/troubleshooting/netflix-network-error/",
+        "/troubleshooting/netflix-playback-error/",
+        "/troubleshooting/partial-nodes-timeout/",
+        "/troubleshooting/peak-hour-congestion/",
+        "/troubleshooting/spotify-connection/",
+        "/troubleshooting/tun-mode-error/",
+        "/troubleshooting/youtube-buffering/",
+        "/troubleshooting/youtube-load-error/"
+      ],
+      "upgradedUrls": [
+        "/troubleshooting/all-nodes-timeout/",
+        "/troubleshooting/subscription-update-failed/"
+      ],
+      "newUrls": [
+        "/troubleshooting/wifi-vs-cellular/"
+      ],
+      "backlogUrls": [
+        "/troubleshooting/pc-works-phone-fails/"
+      ]
+    },
+    "/risk/": {
+      "parentTopic": "/risk/",
+      "publishedUrls": [],
+      "upgradedUrls": [],
+      "newUrls": [
+        "/risk/subscription-converter-risk/"
+      ],
+      "backlogUrls": [
+        "/risk/refund-dispute-evidence/"
+      ]
+    },
+    "/vpn/": {
+      "parentTopic": "/vpn/",
+      "publishedUrls": [],
+      "upgradedUrls": [],
+      "newUrls": [
+        "/vpn/dual-tunnel-conflict/"
+      ],
+      "backlogUrls": [
+        "/vpn/mobile-background-disconnect/"
+      ]
+    },
+    "/clients/": {
+      "parentTopic": "/clients/",
+      "publishedUrls": [
+        "/clients/clash-meta-for-android/",
+        "/clients/clash-mi/",
+        "/clients/clash-nyanpasu/",
+        "/clients/clash-verge-rev/",
+        "/clients/flclash/",
+        "/clients/hiddify/",
+        "/clients/homeproxy/",
+        "/clients/karing/",
+        "/clients/mihomo-party/",
+        "/clients/nekobox/",
+        "/clients/nikki/",
+        "/clients/oneclick/",
+        "/clients/openclash/",
+        "/clients/passwall2/",
+        "/clients/potatso/",
+        "/clients/quantumult-x/",
+        "/clients/shadowrocket/",
+        "/clients/sing-box/",
+        "/clients/stash/",
+        "/clients/streisand/",
+        "/clients/surge/",
+        "/clients/v2raya/",
+        "/clients/v2rayn/",
+        "/clients/v2rayng/"
+      ],
+      "upgradedUrls": [],
+      "newUrls": [
+        "/guides/openwrt-nikki-setup/",
+        "/compare/flclash-vs-clash-verge/"
+      ],
+      "backlogUrls": [
+        "/guides/v2rayn-singbox-upgrade/"
+      ]
+    }
+  }
+}

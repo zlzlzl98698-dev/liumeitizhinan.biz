@@ -1,0 +1,2918 @@
+{
+  "generatedAt": "2026-11-27T07:18:54.669Z",
+  "routes": {
+    "/recommend/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "买前必看：机场推荐核心指标判断",
+          "href": "/recommend/how-to-choose/",
+          "desc": "IEPL、倍率、客户端兼容与晚高峰实测判断"
+        },
+        {
+          "title": "多设备与家庭用户怎么选机场",
+          "href": "/recommend/multi-device-guide/",
+          "desc": "并发设备、IP 限制与软路由防风控指南"
+        },
+        {
+          "title": "独立品牌深度评测中心（8 家）",
+          "href": "/reviews/",
+          "desc": "光速云万字评测及主力品牌客观优缺点分析"
+        },
+        {
+          "title": "光速云 vs 飞猫云深度对比",
+          "href": "/compare/guangsu-vs-feimao/",
+          "desc": "通用订阅与纯专属端对比"
+        }
+      ]
+    },
+    "/recommend/streaming/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "买前必看：机场推荐核心指标判断",
+          "href": "/recommend/how-to-choose/",
+          "desc": "判断流媒体解锁口径与专线真伪"
+        },
+        {
+          "title": "Netflix 使用指南与自制剧排查",
+          "href": "/ai/netflix-guide/",
+          "desc": "地区片库与版权解锁机制详解"
+        },
+        {
+          "title": "光速云深度评测（含 08-19 实测图）",
+          "href": "/reviews/guangsu/",
+          "desc": "查看三网 5 张 MiaoKo 原图实测分析"
+        }
+      ]
+    },
+    "/recommend/ai-tools/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "ChatGPT 网络使用指南（2026）",
+          "href": "/ai/chatgpt-guide/",
+          "desc": "解决香港限制、App 与网页端差异"
+        },
+        {
+          "title": "Claude 防封号锁单节点规则配置",
+          "href": "/guides/claude-fixed-node-rules/",
+          "desc": "Clash Select 分组固定节点实战"
+        },
+        {
+          "title": "光速云深度评测（OpenAI/Gemini 实测）",
+          "href": "/reviews/guangsu/",
+          "desc": "查看哪些节点解锁 OpenAI 与 Gemini"
+        }
+      ]
+    },
+    "/recommend/stable/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "买前必看：机场推荐核心指标判断",
+          "href": "/recommend/how-to-choose/",
+          "desc": "识别稳定性宣传与实测快照边界"
+        },
+        {
+          "title": "光速云 vs 星岛梦对比",
+          "href": "/compare/guangsu-vs-xingdaomeng/",
+          "desc": "2020 年两大 IEPL 老牌主力横向对比"
+        },
+        {
+          "title": "星岛梦深度评测（2026）",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "2020 老牌 IEPL + Trojan 9 档分析"
+        }
+      ]
+    },
+    "/recommend/beginners/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "多设备与家庭用户怎么选机场",
+          "href": "/recommend/multi-device-guide/",
+          "desc": "多端同时在线的规则与设备限制"
+        },
+        {
+          "title": "光速云 vs 飞猫云深度对比",
+          "href": "/compare/guangsu-vs-feimao/",
+          "desc": "新手到底选零配置 App 还是通用订阅"
+        },
+        {
+          "title": "机场订阅导入全流程指南",
+          "href": "/guides/subscription-setup/",
+          "desc": "首次订阅导入与自动更新设置"
+        }
+      ]
+    },
+    "/pricing/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "10 元到 20 元月付机场怎么选",
+          "href": "/pricing/ten-yuan-plans/",
+          "desc": "拆穿“8 元起年付折算”并对比真实月付"
+        },
+        {
+          "title": "100GB/300GB/500GB 流量够用多久",
+          "href": "/pricing/traffic-and-multiplier/",
+          "desc": "倍率扣费公式与 4K 视频消耗测算"
+        },
+        {
+          "title": "小明Cloud vs 光速云对比",
+          "href": "/compare/xiaoming-vs-guangsu/",
+          "desc": "¥5/600G 低价盘与常规专线的风险权衡"
+        }
+      ]
+    },
+    "/pricing/budget/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "10 元到 20 元月付机场怎么选",
+          "href": "/pricing/ten-yuan-plans/",
+          "desc": "真实月付起步门槛与多档性价比核查"
+        },
+        {
+          "title": "小明Cloud 风险核查评测",
+          "href": "/reviews/xiaoming/",
+          "desc": "¥5/600G 与模板冲突风险分析"
+        },
+        {
+          "title": "微风网络深度评测",
+          "href": "/reviews/weifeng/",
+          "desc": "¥137/年清风版到御风版全档解析"
+        }
+      ]
+    },
+    "/pricing/billing-cycles/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "10 元到 20 元月付机场怎么选",
+          "href": "/pricing/ten-yuan-plans/",
+          "desc": "年付折算月均价与首月试错成本计算"
+        },
+        {
+          "title": "暮光加速深度评测",
+          "href": "/reviews/muguang/",
+          "desc": "¥109 年付折算 vs ¥20 普通月付分析"
+        }
+      ]
+    },
+    "/pricing/pay-as-you-go/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "光速云 vs 星岛梦对比",
+          "href": "/compare/guangsu-vs-xingdaomeng/",
+          "desc": "对比光速云 147 永久与星岛梦 100/300/1TB 不限时"
+        },
+        {
+          "title": "星岛梦深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "分析 3 档不限时套餐的折算单价"
+        }
+      ]
+    },
+    "/pricing/rules/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "100GB/300GB/500GB 流量够用多久",
+          "href": "/pricing/traffic-and-multiplier/",
+          "desc": "倍率扣费与多设备同时在线真实消耗"
+        }
+      ]
+    },
+    "/brands/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "独立品牌深度评测中心（8 家深写）",
+          "href": "/reviews/",
+          "desc": "区别于商业档案页：独立分析优缺点与实测拆解"
+        },
+        {
+          "title": "光速云深度评测（2026 万字版）",
+          "href": "/reviews/guangsu/",
+          "desc": "含 2026-08-19 五张 MiaoKo 实测原图拆解"
+        },
+        {
+          "title": "品牌对比中心与 4 篇深度 PK",
+          "href": "/compare/",
+          "desc": "光速云 vs 飞猫云 / 星岛梦 / 二猫云 / 小明Cloud"
+        }
+      ]
+    },
+    "/compare/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "光速云 vs 飞猫云深度对比",
+          "href": "/compare/guangsu-vs-feimao/",
+          "desc": "通用订阅双栖 vs 纯专属端新手选择"
+        },
+        {
+          "title": "光速云 vs 星岛梦对比",
+          "href": "/compare/guangsu-vs-xingdaomeng/",
+          "desc": "2020 年两大主力 IEPL 套餐与不限时对比"
+        },
+        {
+          "title": "光速云 vs 二猫云对比",
+          "href": "/compare/guangsu-vs-ermao/",
+          "desc": "新加坡节点缺失影响与 ¥20 vs ¥25 核算"
+        },
+        {
+          "title": "小明Cloud vs 光速云对比",
+          "href": "/compare/xiaoming-vs-guangsu/",
+          "desc": "¥5/600G 极低单价与证据链完整性对比"
+        },
+        {
+          "title": "梯子云 vs 隐形人深度对比",
+          "href": "/compare/tiziyun-vs-yinxingren/",
+          "desc": "60+ 节点双端自由 vs 纯专属端对比"
+        },
+        {
+          "title": "微风网络 vs 星岛梦深度对比",
+          "href": "/compare/weifeng-vs-xingdaomeng/",
+          "desc": "500G–1.2T 大流量月付与百元永久包"
+        },
+        {
+          "title": "FlClash vs Clash Verge Rev 对比",
+          "href": "/compare/flclash-vs-clash-verge/",
+          "desc": "Flutter vs Tauri 同内核桌面客户端选型"
+        }
+      ]
+    },
+    "/vpn/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "VPN 与代理客户端能否同时运行",
+          "href": "/vpn/dual-tunnel-conflict/",
+          "desc": "解决企业 VPN / 游戏加速器路由冲突"
+        }
+      ]
+    },
+    "/clients/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "Clash Verge Rev 安装与配置教程",
+          "href": "/guides/clash-mihomo-guide/",
+          "desc": "桌面端通用订阅导入与 Mihomo 规则实战"
+        },
+        {
+          "title": "从 CFW 平滑迁移 Clash Verge Rev",
+          "href": "/guides/cfw-to-clash-verge/",
+          "desc": "安全卸载旧版与保留本地配置"
+        },
+        {
+          "title": "Shadowrocket 小火箭完整教程",
+          "href": "/guides/shadowrocket-guide/",
+          "desc": "iOS 添加订阅与按需连接设定"
+        }
+      ]
+    },
+    "/clients/windows/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "Clash Verge Rev 安装与配置教程",
+          "href": "/guides/clash-mihomo-guide/",
+          "desc": "Service Mode、TUN 与分流全流程"
+        },
+        {
+          "title": "从 CFW 平滑迁移 Clash Verge Rev",
+          "href": "/guides/cfw-to-clash-verge/",
+          "desc": "老用户无痛升级迁移指南"
+        },
+        {
+          "title": "TUN 虚拟网卡与 DNS 防泄漏",
+          "href": "/guides/tun-and-dns/",
+          "desc": "解决桌面端 App 不走代理问题"
+        }
+      ]
+    },
+    "/clients/ios/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "Shadowrocket 小火箭完整教程",
+          "href": "/guides/shadowrocket-guide/",
+          "desc": "iPhone 添加订阅与分流设置"
+        }
+      ]
+    },
+    "/ai/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "Netflix 使用指南（2026）",
+          "href": "/ai/netflix-guide/",
+          "desc": "自制剧 vs 全解锁检测与地区片库"
+        },
+        {
+          "title": "ChatGPT 网络使用指南（2026）",
+          "href": "/ai/chatgpt-guide/",
+          "desc": "香港节点限制、App 与网页端差异"
+        },
+        {
+          "title": "Claude 防封号锁单节点配置教程",
+          "href": "/guides/claude-fixed-node-rules/",
+          "desc": "避免自动测速切节点引发风控"
+        }
+      ]
+    },
+    "/network/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "电信 163 / 联通 4837 / 移动 CMI 选线实操",
+          "href": "/network/three-isp-routing/",
+          "desc": "结合 2026-08-19 三网实测解析延迟与带宽"
+        },
+        {
+          "title": "光速云深度评测（含三网实测图）",
+          "href": "/reviews/guangsu/",
+          "desc": "查看长沙电信/广西移动/河北联通同批次实测数据"
+        }
+      ]
+    },
+    "/network/bgp-transit-vs-direct/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "电信 163 / 联通 4837 / 移动 CMI 选线实操",
+          "href": "/network/three-isp-routing/",
+          "desc": "三网宽带晚高峰瓶颈与节点切换策略"
+        }
+      ]
+    },
+    "/guides/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "机场订阅导入全流程指南",
+          "href": "/guides/subscription-setup/",
+          "desc": "通用订阅与专属客户端完整操作步骤"
+        },
+        {
+          "title": "Clash Verge Rev 安装与配置教程",
+          "href": "/guides/clash-mihomo-guide/",
+          "desc": "Mihomo 核心规则分流实战"
+        },
+        {
+          "title": "CFW 平滑迁移 Clash Verge Rev 指南",
+          "href": "/guides/cfw-to-clash-verge/",
+          "desc": "卸载停更旧版并迁移配置"
+        },
+        {
+          "title": "Claude 防封号锁单节点配置示例",
+          "href": "/guides/claude-fixed-node-rules/",
+          "desc": "利用 Select 分组防止 IP 跳变"
+        }
+      ]
+    },
+    "/troubleshooting/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "所有节点突然超时（Timeout）排查",
+          "href": "/troubleshooting/all-nodes-timeout/",
+          "desc": "7 步区分本地网络异常与机场故障"
+        },
+        {
+          "title": "订阅更新失败或返回 200 内容为空排查",
+          "href": "/troubleshooting/subscription-update-failed/",
+          "desc": "域名拦截、UA 标识与格式检查"
+        },
+        {
+          "title": "订阅转换站 Token 泄露风险与止损",
+          "href": "/risk/subscription-converter-risk/",
+          "desc": "订阅异常消耗后的安全重置步骤"
+        }
+      ]
+    },
+    "/risk/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "机场订阅链接勿传在线转换站：Token 泄露自查",
+          "href": "/risk/subscription-converter-risk/",
+          "desc": "识别订阅盗刷并安全重置链接"
+        },
+        {
+          "title": "所有节点突然超时：判断是否停运跑路",
+          "href": "/troubleshooting/all-nodes-timeout/",
+          "desc": "技术层面确认是否服务端异常"
+        },
+        {
+          "title": "小明Cloud ¥5/600G 风险核查评测",
+          "href": "/reviews/xiaoming/",
+          "desc": "低价超售与测试表冲突风险实战案例"
+        }
+      ]
+    },
+    "/risk/account-and-refund/": {
+      "heading": "本专题下属文章与关联评测",
+      "tierLabel": "Topic Hub 自动索引",
+      "children": [
+        {
+          "title": "机场订阅链接勿传在线转换站：Token 泄露自查",
+          "href": "/risk/subscription-converter-risk/",
+          "desc": "订阅链接即流量密钥的安全规范"
+        }
+      ]
+    },
+    "/recommend/how-to-choose/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "选择判断指南",
+      "parents": [
+        {
+          "title": "recommend 一级专题",
+          "href": "/recommend/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/recommend/stable/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "多设备机场推荐与并发规则",
+          "href": "/recommend/multi-device-guide/",
+          "desc": "多设备与家庭用户怎么选机场？并发数、IP 限制与软路由共用意风险详解"
+        },
+        {
+          "title": "10元到20元月付机场选择",
+          "href": "/pricing/ten-yuan-plans/",
+          "desc": "10 元到 20 元月付机场怎么选？揭开年付折算陷阱与真实月付套餐对比"
+        },
+        {
+          "title": "三网宽带晚高峰选节点实操指南",
+          "href": "/network/three-isp-routing/",
+          "desc": "电信 163、联通 4837 与移动 CMI 晚高峰选机场节点实操：从三网实测差异看延迟与带宽"
+        },
+        {
+          "title": "risk/avoid-pitfalls",
+          "href": "/risk/avoid-pitfalls/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "星岛梦 独立深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "飞猫云 独立深度评测",
+          "href": "/reviews/feimao/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/recommend/multi-device-guide/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "选择判断指南",
+      "parents": [
+        {
+          "title": "recommend 一级专题",
+          "href": "/recommend/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/recommend/beginners/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "机场推荐核心指标",
+          "href": "/recommend/how-to-choose/",
+          "desc": "买前必看：机场推荐应该看哪些核心指标？（IEPL、倍率与晚高峰实测判断）"
+        },
+        {
+          "title": "多设备协同与 OpenWrt 软路由配置思路（Apple TV / 电视端看 4K）",
+          "href": "/guides/multi-device-router/",
+          "desc": "多设备协同与 OpenWrt 软路由配置思路（Apple TV / 电视端看 4K）"
+        },
+        {
+          "title": "机场流量额度与倍率计算公式",
+          "href": "/pricing/traffic-and-multiplier/",
+          "desc": "100GB、300GB 与 500GB 机场流量够用多久？倍率扣费公式与 4K 实测消耗核算"
+        },
+        {
+          "title": "brands/xingdaomeng",
+          "href": "/brands/xingdaomeng/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "星岛梦 独立深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "二猫云 独立深度评测",
+          "href": "/reviews/ermao/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "暮光加速 独立深度评测",
+          "href": "/reviews/muguang/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/compare/guangsu-vs-feimao/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "品牌对比",
+      "parents": [
+        {
+          "title": "compare 一级专题",
+          "href": "/compare/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "光速云深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "光速云深度评测（2026 万字版）：三网 MiaoKo 实测原图拆解、优缺点与同价位比较"
+        },
+        {
+          "title": "飞猫云深度评测",
+          "href": "/reviews/feimao/",
+          "desc": "飞猫云深度评测（2026）：纯专属客户端零配置模式、7 档套餐与适用人群边界"
+        },
+        {
+          "title": "brands/guangsu",
+          "href": "/brands/guangsu/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "brands/feimao",
+          "href": "/brands/feimao/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "飞猫云 独立深度评测",
+          "href": "/reviews/feimao/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/recommend/monthly-vs-annual-first-buy/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "选择判断",
+      "parents": [
+        {
+          "title": "recommend 一级专题",
+          "href": "/recommend/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/recommend/beginners/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "pricing/billing-cycles",
+          "href": "/pricing/billing-cycles/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "risk/free-nodes-and-annual",
+          "href": "/risk/free-nodes-and-annual/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "飞猫云 独立深度评测",
+          "href": "/reviews/feimao/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/pricing/ten-yuan-plans/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "价格对比",
+      "parents": [
+        {
+          "title": "pricing 一级专题",
+          "href": "/pricing/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/pricing/budget/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "机场流量额度与倍率计算公式",
+          "href": "/pricing/traffic-and-multiplier/",
+          "desc": "100GB、300GB 与 500GB 机场流量够用多久？倍率扣费公式与 4K 实测消耗核算"
+        },
+        {
+          "title": "机场推荐核心指标",
+          "href": "/recommend/how-to-choose/",
+          "desc": "买前必看：机场推荐应该看哪些核心指标？（IEPL、倍率与晚高峰实测判断）"
+        },
+        {
+          "title": "小明Cloud 深度评测与风险核查",
+          "href": "/reviews/xiaoming/",
+          "desc": "小明Cloud 深度评测（2026）：¥5/600G 极低单价、三网精品声明与模板冲突预警"
+        },
+        {
+          "title": "二猫云深度评测",
+          "href": "/reviews/ermao/",
+          "desc": "二猫云深度评测（2026）：聚焦港日美缺新加坡的取舍、独家端策略与 ¥20 起套餐解析"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "二猫云 独立深度评测",
+          "href": "/reviews/ermao/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "无忧链接 套餐与商业档案",
+          "href": "/brands/wuyou/",
+          "desc": "核对完整套餐、优惠码与官方入口"
+        },
+        {
+          "title": "小明Cloud 独立深度评测",
+          "href": "/reviews/xiaoming/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "唯兔云 独立深度评测",
+          "href": "/reviews/weitu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/pricing/traffic-and-multiplier/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "价格与计算指南",
+      "parents": [
+        {
+          "title": "pricing 一级专题",
+          "href": "/pricing/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/pricing/rules/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "10元到20元月付机场选择",
+          "href": "/pricing/ten-yuan-plans/",
+          "desc": "10 元到 20 元月付机场怎么选？揭开年付折算陷阱与真实月付套餐对比"
+        },
+        {
+          "title": "Netflix 4K 播放完整要求（2026）",
+          "href": "/ai/netflix-4k-guide/",
+          "desc": "Netflix 4K 播放完整要求（2026）：Widevine L1、HDCP 2.2、浏览器与网络带宽门槛"
+        },
+        {
+          "title": "网络检测自检方法与流媒体 4K 画质缓冲优化指南",
+          "href": "/guides/streaming-optimization/",
+          "desc": "网络检测自检方法与流媒体 4K 画质缓冲优化指南"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "星岛梦 独立深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "微风网络 独立深度评测",
+          "href": "/reviews/weifeng/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/pricing/one-yuan-airport-limits/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "价格分析",
+      "parents": [
+        {
+          "title": "pricing 一级专题",
+          "href": "/pricing/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/pricing/budget/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "10元到20元月付机场选择",
+          "href": "/pricing/ten-yuan-plans/",
+          "desc": "10 元到 20 元月付机场怎么选？揭开年付折算陷阱与真实月付套餐对比"
+        },
+        {
+          "title": "risk/free-nodes-and-annual",
+          "href": "/risk/free-nodes-and-annual/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "小明Cloud 独立深度评测",
+          "href": "/reviews/xiaoming/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "大佬云 套餐与商业档案",
+          "href": "/brands/dalaoyun/",
+          "desc": "核对完整套餐、优惠码与官方入口"
+        }
+      ]
+    },
+    "/reviews/guangsu/": {
+      "heading": "光速云 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "光速云 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/guangsu/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "光速云 vs 飞猫云深度对比",
+          "href": "/compare/guangsu-vs-feimao/",
+          "desc": "通用订阅双栖 vs 纯专属端零配置"
+        },
+        {
+          "title": "光速云 vs 星岛梦对比",
+          "href": "/compare/guangsu-vs-xingdaomeng/",
+          "desc": "2020 年两大主力 IEPL 机场套餐与不限时对比"
+        },
+        {
+          "title": "光速云 vs 二猫云对比",
+          "href": "/compare/guangsu-vs-ermao/",
+          "desc": "新加坡节点覆盖差异与 168G vs 130G 对比"
+        },
+        {
+          "title": "小明Cloud vs 光速云对比",
+          "href": "/compare/xiaoming-vs-guangsu/",
+          "desc": "¥5/600G 低价宣传与实测证据链风险对比"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/feimao/": {
+      "heading": "飞猫云 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "飞猫云 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/feimao/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "光速云 vs 飞猫云深度对比",
+          "href": "/compare/guangsu-vs-feimao/",
+          "desc": "通用订阅与纯专属端取舍分析"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/xingdaomeng/": {
+      "heading": "星岛梦 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "星岛梦 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/xingdaomeng/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "光速云 vs 星岛梦对比",
+          "href": "/compare/guangsu-vs-xingdaomeng/",
+          "desc": "VLESS vs Trojan 与不限时流量核算"
+        },
+        {
+          "title": "微风网络 vs 星岛梦对比",
+          "href": "/compare/weifeng-vs-xingdaomeng/",
+          "desc": "500GB–1.2T 月付与百元不限时对比"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/ermao/": {
+      "heading": "二猫云 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "二猫云 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/ermao/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "光速云 vs 二猫云对比",
+          "href": "/compare/guangsu-vs-ermao/",
+          "desc": "缺新加坡节点对日常流媒体/AI 的影响"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/muguang/": {
+      "heading": "暮光加速 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "暮光加速 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/muguang/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/weifeng/": {
+      "heading": "微风网络 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "微风网络 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/weifeng/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "微风网络 vs 星岛梦对比",
+          "href": "/compare/weifeng-vs-xingdaomeng/",
+          "desc": "IEPL 高性价比月付与不限时对比"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/xiaoming/": {
+      "heading": "小明Cloud 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "小明Cloud 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/xiaoming/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "小明Cloud vs 光速云对比",
+          "href": "/compare/xiaoming-vs-guangsu/",
+          "desc": "低价套餐与模板冲突风险评估"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/yinxingren/": {
+      "heading": "隐形人 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "隐形人 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/yinxingren/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "梯子云 vs 隐形人深度对比",
+          "href": "/compare/tiziyun-vs-yinxingren/",
+          "desc": "60+ 节点同级规格与自由度代价分析"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/compare/guangsu-vs-xingdaomeng/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "品牌对比",
+      "parents": [
+        {
+          "title": "compare 一级专题",
+          "href": "/compare/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "光速云深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "光速云深度评测（2026 万字版）：三网 MiaoKo 实测原图拆解、优缺点与同价位比较"
+        },
+        {
+          "title": "星岛梦深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "星岛梦深度评测（2026）：2020 老牌 IEPL + Trojan 9 档梯度、不限时价值与测速核查"
+        },
+        {
+          "title": "brands/guangsu",
+          "href": "/brands/guangsu/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "brands/xingdaomeng",
+          "href": "/brands/xingdaomeng/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "星岛梦 独立深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/compare/guangsu-vs-ermao/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "品牌对比",
+      "parents": [
+        {
+          "title": "compare 一级专题",
+          "href": "/compare/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "光速云深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "光速云深度评测（2026 万字版）：三网 MiaoKo 实测原图拆解、优缺点与同价位比较"
+        },
+        {
+          "title": "二猫云深度评测",
+          "href": "/reviews/ermao/",
+          "desc": "二猫云深度评测（2026）：聚焦港日美缺新加坡的取舍、独家端策略与 ¥20 起套餐解析"
+        },
+        {
+          "title": "brands/guangsu",
+          "href": "/brands/guangsu/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "brands/ermao",
+          "href": "/brands/ermao/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "二猫云 独立深度评测",
+          "href": "/reviews/ermao/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/compare/xiaoming-vs-guangsu/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "品牌对比",
+      "parents": [
+        {
+          "title": "compare 一级专题",
+          "href": "/compare/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "小明Cloud 深度评测与风险核查",
+          "href": "/reviews/xiaoming/",
+          "desc": "小明Cloud 深度评测（2026）：¥5/600G 极低单价、三网精品声明与模板冲突预警"
+        },
+        {
+          "title": "光速云深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "光速云深度评测（2026 万字版）：三网 MiaoKo 实测原图拆解、优缺点与同价位比较"
+        },
+        {
+          "title": "10元到20元月付机场选择",
+          "href": "/pricing/ten-yuan-plans/",
+          "desc": "10 元到 20 元月付机场怎么选？揭开年付折算陷阱与真实月付套餐对比"
+        },
+        {
+          "title": "小明Cloud 独立深度评测",
+          "href": "/reviews/xiaoming/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/reviews/weitu/": {
+      "heading": "唯兔云 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "唯兔云 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/weitu/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/yifan/": {
+      "heading": "一翻云 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "一翻云 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/yifan/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/sogo/": {
+      "heading": "SOGO 云 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "SOGO 云 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/sogo/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/reviews/quanqiu/": {
+      "heading": "全球云 商业套餐与对比转化入口",
+      "tierLabel": "独立品牌评测页",
+      "parents": [
+        {
+          "title": "独立品牌深度评测中心",
+          "href": "/reviews/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全球云 套餐报价、优惠码与官方注册入口",
+          "href": "/brands/quanqiu/",
+          "desc": "核对全部结构化套餐、优惠码限制与直达链接"
+        },
+        {
+          "title": "品牌多维对比中心",
+          "href": "/compare/",
+          "desc": "横向并排对比 3 家品牌核心参数"
+        }
+      ]
+    },
+    "/compare/tiziyun-vs-yinxingren/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "品牌对比",
+      "parents": [
+        {
+          "title": "compare 一级专题",
+          "href": "/compare/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "隐形人深度评测",
+          "href": "/reviews/yinxingren/",
+          "desc": "隐形人深度评测（2026）：¥24 起企业 IPLC 定价、纯专属端代价与实测空白评估"
+        },
+        {
+          "title": "brands/tiziyun",
+          "href": "/brands/tiziyun/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "brands/yinxingren",
+          "href": "/brands/yinxingren/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "梯子云 套餐与商业档案",
+          "href": "/brands/tiziyun/",
+          "desc": "核对完整套餐、优惠码与官方入口"
+        },
+        {
+          "title": "隐形人 独立深度评测",
+          "href": "/reviews/yinxingren/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/compare/weifeng-vs-xingdaomeng/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "品牌对比",
+      "parents": [
+        {
+          "title": "compare 一级专题",
+          "href": "/compare/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "微风网络深度评测",
+          "href": "/reviews/weifeng/",
+          "desc": "微风网络深度评测（2026）：清风到御风 6 档结构、IEPL 入门成本与未入册测速图复核"
+        },
+        {
+          "title": "星岛梦深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "星岛梦深度评测（2026）：2020 老牌 IEPL + Trojan 9 档梯度、不限时价值与测速核查"
+        },
+        {
+          "title": "brands/weifeng",
+          "href": "/brands/weifeng/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "brands/xingdaomeng",
+          "href": "/brands/xingdaomeng/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "微风网络 独立深度评测",
+          "href": "/reviews/weifeng/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "星岛梦 独立深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/guides/subscription-setup/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "教程文章",
+      "parents": [
+        {
+          "title": "guides 一级专题",
+          "href": "/guides/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "Clash Verge Rev 配置教程",
+          "href": "/guides/clash-mihomo-guide/",
+          "desc": "Clash Verge Rev 安装、订阅导入与 Mihomo 核心规则分流实战教程（2026）"
+        },
+        {
+          "title": "Shadowrocket 添加订阅与配置教程",
+          "href": "/guides/shadowrocket-guide/",
+          "desc": "iPhone Shadowrocket 小火箭添加订阅、按需连接与流媒体/AI 分流完整教程"
+        },
+        {
+          "title": "订阅链接安全与在线转换风险防范",
+          "href": "/risk/subscription-converter-risk/",
+          "desc": "为什么切勿把机场订阅传到陌生在线转换站？订阅 Token 泄露自查与止损步骤"
+        },
+        {
+          "title": "机场订阅更新失败与空内容排查",
+          "href": "/troubleshooting/subscription-update-failed/",
+          "desc": "订阅更新失败或返回 200 内容为空怎么办？域名被墙、UA 标识与格式错误排查"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "飞猫云 独立深度评测",
+          "href": "/reviews/feimao/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "梯子云 套餐与商业档案",
+          "href": "/brands/tiziyun/",
+          "desc": "核对完整套餐、优惠码与官方入口"
+        }
+      ]
+    },
+    "/guides/clash-mihomo-guide/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "教程文章",
+      "parents": [
+        {
+          "title": "guides 一级专题",
+          "href": "/guides/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/clients/windows/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "Clash for Windows 迁移 Clash Verge Rev",
+          "href": "/guides/cfw-to-clash-verge/",
+          "desc": "Windows/macOS 从旧版 Clash for Windows 平滑迁移至 Clash Verge Rev 完整指南"
+        },
+        {
+          "title": "TUN 模式与 DNS 防泄漏配置",
+          "href": "/guides/tun-and-dns/",
+          "desc": "TUN 虚拟网卡模式与 DNS Fake-IP 防泄漏配置指南：解决桌面 App 不走代理问题"
+        },
+        {
+          "title": "Clash Claude 锁死单节点规则配置",
+          "href": "/guides/claude-fixed-node-rules/",
+          "desc": "Claude 防封号实战：在 Clash Verge Rev 中利用 Select 分组彻底锁死单节点配置示例"
+        },
+        {
+          "title": "Clash Verge Rev 下载渠道、支持协议与配置使用指南",
+          "href": "/clients/clash-verge-rev/",
+          "desc": "Clash Verge Rev 下载渠道、支持协议与配置使用指南"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/guides/shadowrocket-guide/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "教程文章",
+      "parents": [
+        {
+          "title": "guides 一级专题",
+          "href": "/guides/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/clients/ios/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "clients/ios",
+          "href": "/clients/ios/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "Shadowrocket（小火箭） 下载渠道、支持协议与配置使用指南",
+          "href": "/clients/shadowrocket/",
+          "desc": "Shadowrocket（小火箭） 下载渠道、支持协议与配置使用指南"
+        },
+        {
+          "title": "机场订阅导入全流程",
+          "href": "/guides/subscription-setup/",
+          "desc": "机场订阅链接如何使用？获取、分辨格式、安全导入与自动更新全流程指南"
+        },
+        {
+          "title": "IPv6 网络泄漏导致 ChatGPT/Netflix/Gemini 解锁失败排查与关闭教程",
+          "href": "/troubleshooting/ipv6-leak-error/",
+          "desc": "IPv6 网络泄漏导致 ChatGPT/Netflix/Gemini 解锁失败排查与关闭教程"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/guides/tun-and-dns/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "教程文章",
+      "parents": [
+        {
+          "title": "guides 一级专题",
+          "href": "/guides/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/clients/windows/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "Clash Verge Rev 配置教程",
+          "href": "/guides/clash-mihomo-guide/",
+          "desc": "Clash Verge Rev 安装、订阅导入与 Mihomo 核心规则分流实战教程（2026）"
+        },
+        {
+          "title": "TUN 模式异常、无法开启或开机自启失效排查指南",
+          "href": "/troubleshooting/tun-mode-error/",
+          "desc": "TUN 模式异常、无法开启或开机自启失效排查指南"
+        },
+        {
+          "title": "DNS 解析错误排查",
+          "href": "/troubleshooting/dns-resolution-error/",
+          "desc": "DNS 解析错误排查：网页打不开、域名解析超时与 Fake-IP 冲突"
+        },
+        {
+          "title": "ChatGPT 网络使用与地区环境指南",
+          "href": "/ai/chatgpt-guide/",
+          "desc": "ChatGPT 网络使用指南（2026）：香港限制、App 与网页端差异及节点环境配置"
+        }
+      ]
+    },
+    "/guides/claude-fixed-node-rules/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "教程文章",
+      "parents": [
+        {
+          "title": "guides 一级专题",
+          "href": "/guides/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/recommend/ai-tools/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "Claude 访问指南与防封号环境配置（2026）",
+          "href": "/ai/claude-guide/",
+          "desc": "Claude 访问指南与防封号环境配置（2026）：固定节点策略、地区与风控排查"
+        },
+        {
+          "title": "recommend/ai-tools",
+          "href": "/recommend/ai-tools/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "TUN 模式与 DNS 防泄漏配置",
+          "href": "/guides/tun-and-dns/",
+          "desc": "TUN 虚拟网卡模式与 DNS Fake-IP 防泄漏配置指南：解决桌面 App 不走代理问题"
+        },
+        {
+          "title": "Claude 无法访问与登录异常排查手册（2026）",
+          "href": "/troubleshooting/claude-access-error/",
+          "desc": "Claude 无法访问与登录异常排查手册（2026）：区分地区屏蔽、Cloudflare 循环与账号风控"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "速界 套餐与商业档案",
+          "href": "/brands/sujie/",
+          "desc": "核对完整套餐、优惠码与官方入口"
+        }
+      ]
+    },
+    "/guides/cfw-to-clash-verge/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "教程文章",
+      "parents": [
+        {
+          "title": "guides 一级专题",
+          "href": "/guides/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/clients/windows/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "Clash Verge Rev 下载渠道、支持协议与配置使用指南",
+          "href": "/clients/clash-verge-rev/",
+          "desc": "Clash Verge Rev 下载渠道、支持协议与配置使用指南"
+        },
+        {
+          "title": "clients/windows",
+          "href": "/clients/windows/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "Clash Verge Rev 配置教程",
+          "href": "/guides/clash-mihomo-guide/",
+          "desc": "Clash Verge Rev 安装、订阅导入与 Mihomo 核心规则分流实战教程（2026）"
+        },
+        {
+          "title": "客户端显示已连接但无法访问外网（或全电脑断网）排查",
+          "href": "/troubleshooting/connected-no-internet/",
+          "desc": "客户端显示已连接但无法访问外网（或全电脑断网）排查"
+        }
+      ]
+    },
+    "/ai/netflix-guide/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "平台技术专题",
+      "parents": [
+        {
+          "title": "ai 一级专题",
+          "href": "/ai/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/recommend/streaming/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "Netflix 4K 播放完整要求（2026）",
+          "href": "/ai/netflix-4k-guide/",
+          "desc": "Netflix 4K 播放完整要求（2026）：Widevine L1、HDCP 2.2、浏览器与网络带宽门槛"
+        },
+        {
+          "title": "Netflix 地区内容差异与账号家庭同户规则说明",
+          "href": "/ai/netflix-regions-account/",
+          "desc": "Netflix 地区内容差异与账号家庭同户规则说明"
+        },
+        {
+          "title": "Netflix M7111-5059 代理报错与“只显示自制剧”全面排查步骤",
+          "href": "/troubleshooting/netflix-network-error/",
+          "desc": "Netflix M7111-5059 代理报错与“只显示自制剧”全面排查步骤"
+        },
+        {
+          "title": "recommend/streaming",
+          "href": "/recommend/streaming/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "星岛梦 独立深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/ai/chatgpt-guide/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "AI 平台专题",
+      "parents": [
+        {
+          "title": "ai 一级专题",
+          "href": "/ai/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/recommend/ai-tools/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "ChatGPT 登录验证异常与风控环境排查（Cloudflare 1020 / 循环验证）",
+          "href": "/ai/chatgpt-login-environment/",
+          "desc": "ChatGPT 登录验证异常与风控环境排查（Cloudflare 1020 / 循环验证）"
+        },
+        {
+          "title": "TUN 模式与 DNS 防泄漏配置",
+          "href": "/guides/tun-and-dns/",
+          "desc": "TUN 虚拟网卡模式与 DNS Fake-IP 防泄漏配置指南：解决桌面 App 不走代理问题"
+        },
+        {
+          "title": "ChatGPT 网络错误、页面打不开与连接异常完整排查指南",
+          "href": "/troubleshooting/chatgpt-network-error/",
+          "desc": "ChatGPT 网络错误、页面打不开与连接异常完整排查指南"
+        },
+        {
+          "title": "recommend/ai-tools",
+          "href": "/recommend/ai-tools/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        },
+        {
+          "title": "速界 套餐与商业档案",
+          "href": "/brands/sujie/",
+          "desc": "核对完整套餐、优惠码与官方入口"
+        }
+      ]
+    },
+    "/network/three-isp-routing/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "网络技术指南",
+      "parents": [
+        {
+          "title": "network 一级专题",
+          "href": "/network/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/network/bgp-transit-vs-direct/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "network/iepl-vs-iplc",
+          "href": "/network/iepl-vs-iplc/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "network/regions-and-metrics",
+          "href": "/network/regions-and-metrics/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "晚高峰卡顿、延迟过高与网页加载慢优化指南",
+          "href": "/troubleshooting/peak-hour-congestion/",
+          "desc": "晚高峰卡顿、延迟过高与网页加载慢优化指南"
+        },
+        {
+          "title": "光速云深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "光速云深度评测（2026 万字版）：三网 MiaoKo 实测原图拆解、优缺点与同价位比较"
+        },
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "查看真实优缺点、数据状态与冲突披露"
+        }
+      ]
+    },
+    "/troubleshooting/all-nodes-timeout/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "故障排查手册",
+      "parents": [
+        {
+          "title": "troubleshooting 一级专题",
+          "href": "/troubleshooting/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "机场订阅更新失败与空内容排查",
+          "href": "/troubleshooting/subscription-update-failed/",
+          "desc": "订阅更新失败或返回 200 内容为空怎么办？域名被墙、UA 标识与格式错误排查"
+        },
+        {
+          "title": "客户端显示已连接但无法访问外网（或全电脑断网）排查",
+          "href": "/troubleshooting/connected-no-internet/",
+          "desc": "客户端显示已连接但无法访问外网（或全电脑断网）排查"
+        },
+        {
+          "title": "risk/alternatives",
+          "href": "/risk/alternatives/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "risk/avoid-pitfalls",
+          "href": "/risk/avoid-pitfalls/",
+          "desc": "站内延伸专题"
+        }
+      ]
+    },
+    "/troubleshooting/subscription-update-failed/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "故障排查手册",
+      "parents": [
+        {
+          "title": "troubleshooting 一级专题",
+          "href": "/troubleshooting/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "节点全部超时逐层排查手册",
+          "href": "/troubleshooting/all-nodes-timeout/",
+          "desc": "所有机场节点突然超时（Timeout）怎么办？7 步区分本地网络故障与服务端停运"
+        },
+        {
+          "title": "机场订阅导入全流程",
+          "href": "/guides/subscription-setup/",
+          "desc": "机场订阅链接如何使用？获取、分辨格式、安全导入与自动更新全流程指南"
+        },
+        {
+          "title": "订阅链接安全与在线转换风险防范",
+          "href": "/risk/subscription-converter-risk/",
+          "desc": "为什么切勿把机场订阅传到陌生在线转换站？订阅 Token 泄露自查与止损步骤"
+        }
+      ]
+    },
+    "/risk/subscription-converter-risk/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "风险与安全指南",
+      "parents": [
+        {
+          "title": "risk 一级专题",
+          "href": "/risk/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/risk/account-and-refund/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "risk/account-and-refund",
+          "href": "/risk/account-and-refund/",
+          "desc": "站内延伸专题"
+        },
+        {
+          "title": "机场订阅导入全流程",
+          "href": "/guides/subscription-setup/",
+          "desc": "机场订阅链接如何使用？获取、分辨格式、安全导入与自动更新全流程指南"
+        },
+        {
+          "title": "Clash Verge Rev 配置教程",
+          "href": "/guides/clash-mihomo-guide/",
+          "desc": "Clash Verge Rev 安装、订阅导入与 Mihomo 核心规则分流实战教程（2026）"
+        }
+      ]
+    },
+    "/recommend/node-region-check/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "三级专题文章",
+      "parents": [
+        {
+          "title": "recommend 一级专题",
+          "href": "/recommend/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/recommend/streaming/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "recommend/streaming",
+          "href": "/recommend/streaming/",
+          "desc": "站内延伸专题"
+        }
+      ]
+    },
+    "/pricing/300gb-vs-500gb/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "三级专题文章",
+      "parents": [
+        {
+          "title": "pricing 一级专题",
+          "href": "/pricing/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/pricing/rules/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "pricing/rules",
+          "href": "/pricing/rules/",
+          "desc": "站内延伸专题"
+        }
+      ]
+    },
+    "/risk/maintenance-vs-shutdown/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "三级专题文章",
+      "parents": [
+        {
+          "title": "brands 一级专题",
+          "href": "/brands/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/risk/avoid-pitfalls/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "risk/avoid-pitfalls",
+          "href": "/risk/avoid-pitfalls/",
+          "desc": "站内延伸专题"
+        }
+      ]
+    },
+    "/vpn/dual-tunnel-conflict/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "三级专题文章",
+      "parents": [
+        {
+          "title": "vpn 一级专题",
+          "href": "/vpn/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/vpn/vpn-vs-proxy/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "vpn/vpn-vs-proxy",
+          "href": "/vpn/vpn-vs-proxy/",
+          "desc": "站内延伸专题"
+        }
+      ]
+    },
+    "/guides/openwrt-nikki-setup/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "三级专题文章",
+      "parents": [
+        {
+          "title": "clients 一级专题",
+          "href": "/clients/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/clients/openwrt/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "clients/openwrt",
+          "href": "/clients/openwrt/",
+          "desc": "站内延伸专题"
+        }
+      ]
+    },
+    "/compare/flclash-vs-clash-verge/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "三级专题文章",
+      "parents": [
+        {
+          "title": "clients 一级专题",
+          "href": "/clients/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/clients/windows/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "clients/windows",
+          "href": "/clients/windows/",
+          "desc": "站内延伸专题"
+        }
+      ]
+    },
+    "/network/verify-iepl-claims/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "三级专题文章",
+      "parents": [
+        {
+          "title": "network 一级专题",
+          "href": "/network/",
+          "desc": "返回所属主题中心"
+        },
+        {
+          "title": "上级二级专题",
+          "href": "/network/iepl-vs-iplc/",
+          "desc": "查看更多同簇对比与选型"
+        }
+      ],
+      "related": [
+        {
+          "title": "network/iepl-vs-iplc",
+          "href": "/network/iepl-vs-iplc/",
+          "desc": "站内延伸专题"
+        }
+      ]
+    },
+    "/troubleshooting/wifi-vs-cellular/": {
+      "heading": "专题归属与全链路延伸",
+      "tierLabel": "三级专题文章",
+      "parents": [
+        {
+          "title": "troubleshooting 一级专题",
+          "href": "/troubleshooting/",
+          "desc": "返回所属主题中心"
+        }
+      ],
+      "related": [
+        {
+          "title": "troubleshooting",
+          "href": "/troubleshooting/",
+          "desc": "站内延伸专题"
+        }
+      ]
+    },
+    "/brands/guangsu/": {
+      "heading": "光速云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "光速云 独立深度评测",
+          "href": "/reviews/guangsu/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "光速云 vs 飞猫云深度对比",
+          "href": "/compare/guangsu-vs-feimao/",
+          "desc": "通用订阅双栖 vs 纯专属端零配置"
+        },
+        {
+          "title": "光速云 vs 星岛梦对比",
+          "href": "/compare/guangsu-vs-xingdaomeng/",
+          "desc": "2020 年两大主力 IEPL 机场套餐与不限时对比"
+        },
+        {
+          "title": "光速云 vs 二猫云对比",
+          "href": "/compare/guangsu-vs-ermao/",
+          "desc": "新加坡节点覆盖差异与 168G vs 130G 对比"
+        },
+        {
+          "title": "小明Cloud vs 光速云对比",
+          "href": "/compare/xiaoming-vs-guangsu/",
+          "desc": "¥5/600G 低价宣传与实测证据链风险对比"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/muguang/": {
+      "heading": "暮光加速 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "暮光加速 独立深度评测",
+          "href": "/reviews/muguang/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/feimao/": {
+      "heading": "飞猫云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "飞猫云 独立深度评测",
+          "href": "/reviews/feimao/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "光速云 vs 飞猫云深度对比",
+          "href": "/compare/guangsu-vs-feimao/",
+          "desc": "通用订阅与纯专属端取舍分析"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/weifeng/": {
+      "heading": "微风网络 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "微风网络 独立深度评测",
+          "href": "/reviews/weifeng/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "微风网络 vs 星岛梦对比",
+          "href": "/compare/weifeng-vs-xingdaomeng/",
+          "desc": "IEPL 高性价比月付与不限时对比"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/dalaoyun/": {
+      "heading": "大佬云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/xingdaomeng/": {
+      "heading": "星岛梦 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "星岛梦 独立深度评测",
+          "href": "/reviews/xingdaomeng/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "光速云 vs 星岛梦对比",
+          "href": "/compare/guangsu-vs-xingdaomeng/",
+          "desc": "VLESS vs Trojan 与不限时流量核算"
+        },
+        {
+          "title": "微风网络 vs 星岛梦对比",
+          "href": "/compare/weifeng-vs-xingdaomeng/",
+          "desc": "500GB–1.2T 月付与百元不限时对比"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/xiaoming/": {
+      "heading": "小明Cloud 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "小明Cloud 独立深度评测",
+          "href": "/reviews/xiaoming/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "小明Cloud vs 光速云对比",
+          "href": "/compare/xiaoming-vs-guangsu/",
+          "desc": "低价套餐与模板冲突风险评估"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/ermao/": {
+      "heading": "二猫云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "二猫云 独立深度评测",
+          "href": "/reviews/ermao/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "光速云 vs 二猫云对比",
+          "href": "/compare/guangsu-vs-ermao/",
+          "desc": "缺新加坡节点对日常流媒体/AI 的影响"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/wuyou/": {
+      "heading": "无忧链接 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/weitu/": {
+      "heading": "唯兔云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "唯兔云 独立深度评测",
+          "href": "/reviews/weitu/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/firefly/": {
+      "heading": "Firefly 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/yuzhou/": {
+      "heading": "宇宙云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/u1s1/": {
+      "heading": "U1S1 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/lingmao/": {
+      "heading": "灵猫网络 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/jilian/": {
+      "heading": "极连云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/guangnian/": {
+      "heading": "光年梯 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/yifan/": {
+      "heading": "一翻云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "一翻云 独立深度评测",
+          "href": "/reviews/yifan/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/sogo/": {
+      "heading": "SOGO 云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "SOGO 云 独立深度评测",
+          "href": "/reviews/sogo/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/kexin/": {
+      "heading": "可信云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/sujie/": {
+      "heading": "速界 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/shanyue/": {
+      "heading": "闪跃 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/quanqiu/": {
+      "heading": "全球云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全球云 独立深度评测",
+          "href": "/reviews/quanqiu/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/shandianshu/": {
+      "heading": "闪电鼠 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/yunjiexian/": {
+      "heading": "云界线 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/liulianyun/": {
+      "heading": "榴莲云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/shenxing/": {
+      "heading": "神行加速 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/huanqiuti/": {
+      "heading": "环球梯 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/yinxingren/": {
+      "heading": "隐形人 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "隐形人 独立深度评测",
+          "href": "/reviews/yinxingren/",
+          "desc": "独立优缺点分析、实测证据拆解与同类比较"
+        },
+        {
+          "title": "梯子云 vs 隐形人深度对比",
+          "href": "/compare/tiziyun-vs-yinxingren/",
+          "desc": "60+ 节点同级规格与自由度代价分析"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/tiziyun/": {
+      "heading": "梯子云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "梯子云 vs 隐形人深度对比",
+          "href": "/compare/tiziyun-vs-yinxingren/",
+          "desc": "60+ 节点通用订阅双支持 vs 纯专属端"
+        },
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/lingdong/": {
+      "heading": "灵动云 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/langwang/": {
+      "heading": "浪网 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/edgenova/": {
+      "heading": "边缘节点 EdgeNova 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/brands/kuaili/": {
+      "heading": "快狸 评测与同价位比较导航",
+      "tierLabel": "品牌商业详情页",
+      "parents": [
+        {
+          "title": "机场品牌数据库大全",
+          "href": "/brands/"
+        }
+      ],
+      "related": [
+        {
+          "title": "全部 33 家机场品牌数据库",
+          "href": "/brands/",
+          "desc": "按套餐、线路与测试证据多维筛选"
+        },
+        {
+          "title": "流媒体与 AI 实测记录中心",
+          "href": "/tools/streaming-check/",
+          "desc": "查看同口径截图日期与验证状态"
+        }
+      ]
+    },
+    "/reviews/": {
+      "heading": "按需求返回上游选型与品牌数据库",
+      "tierLabel": "品牌评测总览",
+      "parents": [
+        {
+          "title": "机场品牌数据库",
+          "href": "/brands/"
+        },
+        {
+          "title": "机场推荐总览",
+          "href": "/recommend/"
+        }
+      ],
+      "related": [
+        {
+          "title": "光速云 vs 飞猫云深度对比",
+          "href": "/compare/guangsu-vs-feimao/",
+          "desc": "通用订阅双栖 vs 纯专属端零配置"
+        },
+        {
+          "title": "光速云 vs 星岛梦对比",
+          "href": "/compare/guangsu-vs-xingdaomeng/",
+          "desc": "2020 年两大主力 IEPL 机场套餐与不限时对比"
+        },
+        {
+          "title": "光速云 vs 二猫云对比",
+          "href": "/compare/guangsu-vs-ermao/",
+          "desc": "新加坡节点覆盖差异与 168G vs 130G 对比"
+        },
+        {
+          "title": "小明Cloud vs 光速云对比",
+          "href": "/compare/xiaoming-vs-guangsu/",
+          "desc": "¥5/600G 低价宣传与实测证据链风险对比"
+        }
+      ]
+    }
+  }
+}
